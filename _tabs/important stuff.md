@@ -10,4 +10,8 @@ Having been passionate about increasing accessibility to the outdoors and reduci
 
 My mission is to inspire and support others to chase their dreams whilst respecting the world that we live in. I'm incredibly grateful to Re-Action and Preloved Sports for helping me to do this. There is no monetary transaction involved here, simply collaboration and community action to help mobilise change.
 
-​
+​Learn more about Re-Action and Preloved Sports below:
+
+[Re-Action Collective](https://re-action-collective.org/)
+
+[Preloved Sports CIC](https://prelovedsports.org.uk/)
