@@ -13,7 +13,7 @@ Over the next couple of years at university, my passion for running became great
 
 I've been struggling again with my mental health, but luckily, I've still been able to lace up my shoes and use running and nature as a medicine. But, unfortunately, not all of us have experienced nor understand the power of being in nature or exercising outdoors. This is why, on the 16th of August 2025, I will be attempting to run around the Isle of Anglesey (Ynys Mon) in one go to raise money for Mind Over Mountains.  
 
-Mind Over Mountains is a charity offering mental wellbeing support for people who are struggling by offering opportunities to go hiking in nature with others. Their work is touching as it challenges the stigma surrounding mental health and integrates the powerful ability of the outdoors with more traditional mindfulness practices. This gives people the *chance* to feel free again; to hain some clarity in the mountains.  
+Mind Over Mountains is a charity offering mental wellbeing support for people who are struggling by offering opportunities to go hiking in nature with others. Their work is touching as it challenges the stigma surrounding mental health and integrates the powerful ability of the outdoors with more traditional mindfulness practices. This gives people the *chance* to feel free again; to gain some clarity in the mountains.  
 
 This challenge will be my biggest challenge yet. By a long shot. 215 km around the Anglesey coastal path. I've named it the Ring of Hope. I will give it my all and I'm sure that I will finish knowing that there are people all around the world having to fight far tougher battles, every day.  
 
