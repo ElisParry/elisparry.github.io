@@ -21,8 +21,8 @@ My mission is to inspire and support others to chase their dreams whilst respect
 # The Green Runners
 {:refdef: style="text-align: center;"}
 ![Green Runners](assets/images/green_runners.webp){: width="300" }
-> “A running community making changes for a fitter planet”
 {: refdef}
+> “A running community making changes for a fitter planet”
 
 By being part of the Green Runners, I aim to educate myself and others about climate change as well as the effect that the sport of running is having on our planet to make running a greener community. When racing, and even when running around my local area, I try to spread The Green Runners' message and proudly wear my badge.
 
