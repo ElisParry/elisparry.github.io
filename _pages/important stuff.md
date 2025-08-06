@@ -17,3 +17,10 @@ Having been passionate about increasing accessibility to the outdoors and reduci
 My mission is to inspire and support others to chase their dreams whilst respecting the world that we live in. I'm incredibly grateful to Re-Action and Preloved Sports for helping me to do this. There is no monetary transaction involved here, simply collaboration and community action to help mobilise change.
 
 ​Learn more about Re-Action and Preloved Sports by following these links: [Re-Action Collective](https://re-action-collective.org/), [Preloved Sports CIC](https://prelovedsports.org.uk/).
+
+# The Green Runners
+> “A running community making changes for a fitter planet”
+
+By being part of the Green Runners, I aim to educate myself and others about climate change as well as the effect that the sport of running is having on our planet to make running a greener community. When racing, and even when running around my local area, I try to spread The Green Runners' message and proudly wear my badge.
+
+We're running out of time. Join The Green Runners [now](https://thegreenrunners.com/become-a-member/). 
