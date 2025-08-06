@@ -20,7 +20,7 @@ My mission is to inspire and support others to chase their dreams whilst respect
 
 # The Green Runners
 {:refdef: style="text-align: center;"}
-![Green Runners](assets/images/green_runners.avif){: width="200" }
+![Green Runners](assets/images/green_runners.webp){: width="300" }
 > “A running community making changes for a fitter planet”
 {: refdef}
 
