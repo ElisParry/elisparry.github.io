@@ -6,8 +6,8 @@ categories: [Running]
 tags: [running, ultrarunning]
 description: "Running the Ring O' Fire 215 km ultramarathon to raise money for Mind Over Mountains"
 image: 'assets/images/pont_menai.jpeg'
+comments: false
 ---
-
 I first started to run during the COVID pandemic. For the first time in my life, I struggled with my mental health. For a while, I internalised how I felt and started to feel stuck and isolated. One day, I decided to set out for a run to try to clear my head. It was only then that I realised the power of running.  
 
 Since 2020, running has been a big, important part of my life. From the start, I'd always liked to set myself challenges in my running. After a year of running, I signed up to my first ever running race - a 100 km ultramarathon to raise money for charity. I DNFd on the day, dropping out at the 80 km mark. But the journey taught me something important - there's no shame in a DNF. Why? It's about the process, not the outcome.  

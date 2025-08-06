@@ -17,7 +17,7 @@ When I started running, I didn't quite spot the immediate connection between cli
 To make things easier, I'll split things such that they align with the Green Runners' four pillars. This might also nudge you in the right direction to sign up to be a member. 
 
 
-## Kit won't make you fit 
+# Kit won't make you fit 
 
 To start, let's talk about shoes - perhaps the biggest culprit in a runner's wardrobe. Shoes are something that I have some strong opinions about, be it related to their environmental effect or their effect on our biomechanics. I do not believe that natural movement and longevity are in the best interests of these multi-million dollar shoe companies. Instead, they create and exploit trends to sell us more of their shoes, promising that they will be key to becoming a better runner. I'd like to make a clear point here and now - this is not true. There isn't a single study showing that these fancy shoes reduce the risk of injury. In fact, it's quite the opposite effect - supposedly, there are studies showing that injury rates are lower when running in cheaper, more used shoes. Fancy running shoes are good at doing one thing - they numb our senses. They give us a false sense of security, thinking that we are doing far less damage to our bodies because we have big fluffy pillows under our feet. The irony is that we're simply weakening our bodies and delaying any biomechanical issues until later in life. 
 
@@ -49,7 +49,7 @@ OK, so am I saying that we shouldn’t run in shoes? No, this is not what I’m 
 So what now? If you buy new, there are still ways that we can be better—better, not perfect. I always try to buy from a company with good ethics and ones that are transparent about the lifecycle of their products—this means avoiding some of the big names such as Nike, Adidas, and Puma. Yes, the initial cost of the shoe may be greater, but if it lasts longer and means that they are less of an environmental issue then it is 100% worth it. We have become too used to getting stuff quickly and cheaply, paying little consideration to the destruction caused before and after we receive the product. It's also important to buy a shoe that will last. Well-built shoes that are made to last are great. I’ve run 2000+ miles in some of my shoes and they are still going OK! The key is to be proactive and take care of your shoes well. Wash them if they get caked in mud, run with good form (the irony here is that ‘maximalist’ running shoes encourage poor form), and, most importantly, repair, repair, repair! Finally, when my shoes are not appropriate for running anymore, I tend to use them as muck-around shoes or for dog walks. You could also follow Damian’s advice and turn them into plant pots!
 
  
-### How I repair my shoes
+## How I repair my shoes
 
 The approach that I take to repairing my shoes is simple. It goes as follows:
 
@@ -67,7 +67,7 @@ For some good shoe repair stuff, head over to [https://www.pairups.co.uk/store/]
 That’s some of the stuff that I learned about shoes in Damian’s book, but now I’d like to delve into another plastic problem—race T-shirts. 
 
 
-## Another free t-shirt won’t hurt
+# Another free t-shirt won’t hurt
 
 Or will it? Now, you might have noticed that I don’t race all that much compared to a lot of runners—that is partly because I find it hard to see through the waste that is produced in a lot of running races. From the piles and piles of plastic water bottles, to the emissions associated with participant travel to and from the race—these are all quite off-putting for me. But perhaps one of the things that aggravates me the most is the free T-shirts that are often handed out at running races. In my opinion, this is no different to fast fashion—one of the most destructive, exploitive industries in the world. These T-shirts are created in awful working conditions as cheaply as possible using plastic which, I remind you, is itself made from fossil fuels—and they still look rubbish most of the time! I’m sure if the council bin lorry was parked at the end of a race handing out rubbish that will eventually end up in landfill, then we wouldn’t be too pleased to say the least. But hang on, this is basically what’s happening at a lot of running races. My view is, if you’re stood at the start line of a race and manage to make it to the finish, then you already have a good enough way of covering up for a running race. It’s all just a marketing game hiding behind seemingly generous acts of gifting. 
 
@@ -75,7 +75,7 @@ Or will it? Now, you might have noticed that I don’t race all that much compar
 Scrap these cheap T-shirts. Offer an option to plant a tree using Trees Not Tees instead and, as a last resort, offer the option for a participant to buy a well- and ethically-made T-shirt with a cool design—perhaps from a local artist—that’s going to be kept in the top and used for years to come. Oh, and for race directors? I suggest just focusing your efforts on the more important aspects that contribute to an excellent running race, such as good way marking and an exciting route. That way, this can leverage the most powerful, old-fashioned way of marketing—using word of mouth. I'm confident that this will make running races more fun and cheap T-shirts will start to become an old fad.
 
 
-## The unexpected elephant in the room
+# The unexpected elephant in the room
 
 OK, so that's a little ramble about kit, but let's back-track a little. I mentioned that a big reason why I don't race too much is due to the waste associated with running races, but what I wasn't prepared for was to learn that 90% of the CO2e emissions from running events come from participant travel. What's even more interesting is that the races that attract me the most - trail and mountain ultras - may be the hardest events to reduce this contribution to emissions. But let's be realistic—we want to allow ourselves to go to some races and have some fun. There are still things that we should carefully consider before clicking buy on our next race entry. 
 
@@ -89,7 +89,7 @@ Anyway, what Damian does a great job at explaining—and what I'd like to get ac
 Now that I've touched on a few things related to how we kit up and how we move, I'd like to touch on some things that relate to the two other pillars of The Green Runners - how we eat and how we speak up. 
 
 
-## Fuelling for the long run 
+# Fuelling for the long run 
 
 To be honest with you, when talking about the four pillars, this is the one that I feel least confident talking about. In the past, as someone who's not fully vegetarian or vegan, I've felt some guilt and a sense of hypocrisy when discussing the impact of food on our planet. However, having read Damian's book, one of the most important takeaways for me is the fact that we are all hypocrites - it's impossible not to be in some way. So, instead of keeping hush about this, I thought I would share some things about how running (and non-running) related food consumption contributes to climate change.
 
@@ -115,7 +115,7 @@ Well, back in the day, someone would find or create a certain variant of some pl
 Mono-crop farming has resulted in the commoditisation of major crops such as corn and soy, which are being tinkered at Frankenstein like labs to create fake foods that appear on most modern supermarket shelves. Big Ag practices move money away from local, small-scale farms to big corporations that have a monopoly over these crops. The destruction that this is causing is something that we should not ignore. Nature does not like to be altered. It is a metastable system that has remained so for thousands and thousands of years. Industrial agricultural practices undermine this fundamental truth; destroying the land that’s so vital to our existence and reducing the carbon sequestering potential of our land. Once again, we need to open our eyes and consider the true cost of what we consume.
 
 
-## Foodstuff ≠ Food
+# Foodstuff ≠ Food
 
 Before I move on to how we speak up, I’d like to touch on something that I believe is important; something that we are perhaps brushing under the rug—the concept of nutrients. After all, as runners, we need to eat a well-rounded and nutritious diet if we want to be healthy and have longevity in our running. But there is no point going veggie or vegan but then living off ultra-processed foods that don’t give us energy to enjoy our running and help drive for systemic change. 
 
@@ -129,7 +129,7 @@ Some call this nutritionism—where we have taken it too far and broken down ‘
 Finally, for heaven’s sake, make sure that you eat what you buy so that we can reduce the colossal amount of food waste that we produce as a country. So, if we want to make changes for a fitter planet and better health, we should aim to eat whole, unprocessed foods, mainly plants, and buy local where possible. These are the steps that I am taking this year related to the pillar of ‘how we eat’.
 
 
-## Ignorance is no longer bliss
+# Ignorance is no longer bliss
 
 This brings me to the final and most important thing that I learned from the book. It relates to the final Green Runners' pillar - how we speak out. I plan to write a separate post discussing this in further detail, however, it's important that I at least touch on it here. 
 

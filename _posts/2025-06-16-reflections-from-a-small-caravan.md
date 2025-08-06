@@ -8,6 +8,7 @@ categories: [Lifestyle]
 
 tags: [simplicity] 
 image: 'assets/images/Caravan.jpeg'
+toc: true
 --- 
 
  
@@ -40,7 +41,7 @@ Since arriving in Portugal a couple of weeks prior, I'd decided not to purchase 
 
  
 
-## Disconnecting to reconnect  
+# Disconnecting to reconnect  
 
  
 
@@ -64,7 +65,7 @@ In a sense, living off the grid with this lovely family really drove it home to 
 
  
 
-## At the surface, life is simple  
+# At the surface, life is simple  
 
  
 
@@ -82,7 +83,7 @@ Aside from food, I also came to appreciate the importance of shelter. I am privi
 
  
 
-## Community is key  
+# Community is key  
 
  
 
@@ -94,7 +95,7 @@ In these small villages, there weren't really any mainstream, big-name shops lik
 
  
 
-## Solitude sucks. Or does it?  
+# Solitude sucks. Or does it?  
 
  
 
@@ -110,7 +111,7 @@ Solitude is important but often neglected.
 
  
 
-## Be more childlike  
+# Be more childlike  
 
  
 

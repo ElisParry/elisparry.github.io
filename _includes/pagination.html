@@ -26,3 +26,8 @@
   {% endif %}
 </div>
 {% endif %}
+
+{% assign posts = paginator.posts | slice: 0, 5 %}
+{% for post in posts %}
+  <!-- your post markup -->
+{% endfor %}

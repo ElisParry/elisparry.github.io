@@ -1,9 +1,11 @@
 ---
+layout: post
 title: "Stripped back running"
 date: 2023-06-04 00:00:00 +0000
 categories: [Running]
 tags: [running, simplicity, social media]
 image: 'assets/images/stripped.avif'
+toc: true
 ---
 
 I've been wanting to start a blog to share some of my thoughts for a while, so here is my first post! These are a few words about **stripping back** to the basics of running.

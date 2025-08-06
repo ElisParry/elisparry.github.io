@@ -1,17 +1,20 @@
 ---
+layout: post
 title: "Processed world?"
 date: 2024-06-16 00:00:00 +0000
 categories: [Lifestyle]
 tags: [technology]
 image: 'assets/images/processed.avif'
+toc: true
 ---
+
 This post is slightly different to other posts, but it discusses a topic that I find very interesting, this being processed foods. Having learned about food and nutrition a little bit over the past few years, I thought I would start sharing some of the things that I have picked up in the hope that it can help inform others of some important information. 
 
 
 I am recently read 'Hooked' by Michael Mosely. The book discusses how we have become addicted to processed foods and looks at both the internal factors, such as our bodies' response to eating highly processed foods and external factors, such as the multi-million dollar advertising regimes that processed food manufactures use to lure us in. I thought I would share some of the key takeaways from this book, as well as some other comments related to processed foods. 
 
  
-## Speed
+# Speed
 
 The speed of production of processed foods to the speed at which they can be consumed once they reach our hands. Companies prioritise profit, so if they can make things quicker, using less tools and equipment, then this is good news to them. By cutting corners to make their foods emulate textures and flavours in 'real foods', they are able to shortcut their way to a seemingly equivalent end product. But here is the catch, that loaf of white bread wrapped in plastic in supermarkets is a million miles away from a freshly baked loaf of sourdough. The former's production process is squeezed into a few hours, if that, with the rising process accelerated through the use of processing, whereas the latter takes many hours, if not days to produce. One of these - the processed version - harms our health far more than the other. 
 
@@ -25,12 +28,12 @@ There is another important factor, this being the speed at which these foods hit
 When I read about these things, it shocked my just how little control we actually have over our eating habits as soon as we enter a supermarket. As humans living in modern society, our busy lives often demand time-saving measures to enhance our productivity. Therefore, one might naturally lean towards more processed foods as they just seem so convenient. But I propose another solution. I strongly believe that by cutting out processed foods from one's diet, unless completely constrained for time, one can become more efficient and productive at everything they do. By putting nutrient rich foods into our bodies instead of low nutrient density processed foods that *sap* our energy, we can now use food as a way of increasing our energy levels.
 
 
-## Every individual is different
+# Every individual is different
 
 The next point that I found interesting is the fact that different people have different sensitivities to reward and different capacities to inhibit this. An example of this is: let's say someone is walking down the street and they see a KFC advertisement on the side of the bus stop. One person may pass by this obliviously and not take any further notice of the sign as it does not act as a trigger mechanism for craving of KFC. However, someone else, who may or may not be a KFC addict, may immediately start to experience a snowball of emotions that all guide them to thinking that they want that KFC, now. I found this interesting due to my personal experience of this. When I was in school, I had a sweet tooth and a liking for fast foods and whenever I was out with friends and we'd pass a fast food restaurant sign, I would immediately want that Big Mac. For me, I think this was because I had had one before and because of the clever work of the 'food scientists' at these fast food restaurants to manipulate their plastic-like foods to be as addictive as possible, now my brain viewed these foods as a reward. As a result, I would feel a compulsion to eat another Big Mac. Being perhaps intentionally unaware of the huge negative health effects of ultra-processed foods meant that there was no resistance to this path in my brain. But, over the years, as I have slowly realised just how bad these kinds of foods are for us, I now have no compulsion so eat some chicken nuggets when I walk past that sign. 
 
 
-## Evolution
+# Evolution
 
 Michael Moss often refers to Ardi, who is an example of one of our earliest ancestors who could walk and how one small change led to big evolutionary changes. Before Ardi, our ancestors would crawl, however, in order to better access foods in the long grasses in Ethiopia, Ardi stood up. This changed the way we smell as we were no longer close to the ground, meaning that our ability to smell different things became far more sensitive. This is now working against us as how our food smells plays an important role in how much we like a certain food when we eat it. 
 
@@ -39,12 +42,12 @@ As well as this evolutionary change, another interesting adaptation is that we'v
 
  
 
-## Don't judge a book by its cover
+# Don't judge a book by its cover
 
 This point relates to the importance of appreciating that no visible fat does not imply that someone is healthy. People can appear a healthy weight yet be very unhealthy on the inside and vice versa. I am personally concerned about this mismatch between how visibly fat someone is and their actual physical health and believe that we need to be careful not to assess our health purely off this metric. Plenty of slim and lean individuals go on to develop metabolic syndrome and other metabolic disorders later on in their lives due to poor food choices. The primary reason why this is important is because the most dangerous fat is one that we cannot 'see' externally on someone. Instead, it is the fat that encases our organs, in particularly, visceral fat. It is this that we want to keep to low levels. This is also the reason why procedures such as liposuction don't simply *improve* someone's health as it leaves the visceral fat untouched. 
 
 
-## Variety
+# Variety
 
 Humans love variety. Processed food companies exploit this. From different shapes to color to flavour to size to texture... you get the gist. On paper, this looks great. When you walk into the shop and they have come out with a new flavour of crisps, your eyes might light up. This likely happens even if you don't really like their other flavour anymore and lures customers into buying more of the product. The new flavour creates new pathways in the brain and our appetite is now satisfied with this 'new' product which is only slightly different. I am not too sure how to explain this in any more detail apart from the fact that we now effectively have an unlimited number of varieties of a singular type of product, so if we get bored of one variety, we seamlessly hop onto the next one. 
 
