@@ -3,6 +3,7 @@ title: "Cambridge to Oxford utlramarathon"
 date: 2024-06-24 00:00:00 +0000
 categories: [Running]
 tags: [ultrarunning, challenges]
+image: 'assets/images/cam_ox.avif'
 ---
 
 

@@ -3,6 +3,7 @@ title: "Some notes on the digital world"
 date: 2024-04-12 00:00:00 +0000
 categories: [Lifestyle]
 tags: [technology]
+images: 'assets/images/digital_world'
 ---
 
 I recently listened to Prajnaketu, author of Cyberloka: A Buddhist Guide to Digital Life, talk about some of the ideas presented in his book. This inspired me to write a few words about my recent discussion with Prajnaketu and other members of the Cambridge Buddhist Centre. 
