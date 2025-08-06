@@ -1,26 +1,17 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+layout: page
+title: A little bit about me.
+permalink: /about
+comments: false
+image: 
+imageshadow: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Elis, and I have an interest in climate change and the generation of clean energy and, therefore, I'm currently pursuing a care​er in a related field. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My philosophy is to do what you love. So when I'm not doing physics, I like to spend the rest of my time doing the other things I love. These include doing sports, volunteering and spending time with my friends and family, including my dog, Pero. I created this page to share some of these interests. Hopefully, it will give you a good idea of some of the things I get up to!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hope you enjoy.
+
+
+
