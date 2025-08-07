@@ -6,7 +6,8 @@ comments: false
 ---
 ![Running](/assets/images/email_image.avif)
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/mblkpglk"
+method="POST">    
 <p class="mb-4">Please use the form or send me an email if you would like to get in touch. I'll try to reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
