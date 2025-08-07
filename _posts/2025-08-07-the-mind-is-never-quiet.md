@@ -7,7 +7,7 @@ image: 'assets/images/coast2.jpg'
 toc: true
 --- 
 
-Over half a year ago now, I read a booked called *Can the mind be quiet? - Living, Learning and Meditation'* by J. Krishnamurti. The book explores whether the mind can be quiet, and if it is possible to find lasting peace in daily life, as well as delving into how the next generation can be empowered to make the world a better place. Exploration of what it means to be aware is also included. Some things from the book have stuck with me and given that the book is split into three sections, I thought I would write a separate blog post about what I learned from each. This is the first of three posts, about living. It may be a little disjointed, but here are some reflections from this first part of the book. 
+Over half a year ago now, I read a booked called *'Can the mind be quiet? - Living, Learning and Meditation'* by J. Krishnamurti. The book explores whether the mind can be quiet, and if it is possible to find lasting peace in daily life, as well as delving into how the next generation can be empowered to make the world a better place. Exploration of what it means to be aware is also included. Some things from the book have stuck with me and given that the book is split into three sections, I thought I would write a separate blog post about what I learned from each. This is the first of three posts, about living. It may be a little disjointed, but here are some reflections from this first part of the book. 
 
 # Conflict = destruction of energy 
 
