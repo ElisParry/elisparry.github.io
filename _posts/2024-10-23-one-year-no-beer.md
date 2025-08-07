@@ -3,7 +3,7 @@ layout: post
 title: "One year no beer"
 date: 2024-10-23 00:00:00 +0000
 categories: [Lifestyle]
-tags: [sober living, lifestyle]
+tags: [sober living]
 image: 'assets/images/year_beer.avif'
 comments: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Into the red: Celtic Ultra"
 date: 2024-12-18 00:00:00 +0000
 categories: [Running]
-tags: [running, ultrarunning, racing]
+tags: [ultrarunning, racing]
 image: 'assets/images/celtic_ultra_cover.avif'
 comments: false
 ---

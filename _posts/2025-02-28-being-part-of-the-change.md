@@ -3,7 +3,7 @@ layout: post
 title: "Being part of the change"
 date: 2025-02-28 00:00:00 +0000
 categories: [Running]
-tags: [running, ultrarunning, green running, sustainability]
+tags: [ultrarunning, green running, sustainability]
 image: 'assets/images/change_blog.avif'
 toc: true
 comments: false

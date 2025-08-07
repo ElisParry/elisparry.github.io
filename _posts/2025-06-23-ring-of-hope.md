@@ -3,7 +3,7 @@ layout: post
 title: "The ring of hope"
 date: 2025-06-23 00:00:00 +0000
 categories: [Running]
-tags: [running, ultrarunning]
+tags: [ultrarunning]
 description: "Running the Ring O' Fire 215 km ultramarathon to raise money for Mind Over Mountains"
 image: 'assets/images/pont_menai.jpeg'
 comments: false

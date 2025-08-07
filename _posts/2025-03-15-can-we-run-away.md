@@ -3,7 +3,7 @@ layout: post
 title: "Can we run away from this?"
 date: 2025-03-15 00:00:00 +0000
 categories: [Running]
-tags: [running, ultrarunning, green running, sustainability]
+tags: [ultrarunning, green running, sustainability]
 toc: true
 image: 'assets/images/jacob_green_wyddfa.jpeg'
 comments: false
