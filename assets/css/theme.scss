@@ -378,6 +378,49 @@ img, img:hover {
     margin-top:50px;
     margin-bottom:50px;
 }
+
+.firstpage {
+    .blog-grid-item:nth-child(1) {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        flex-direction: column;  
+        align-items: flex-start;
+        font-size: 1em;
+        padding:0;
+        .card-title {
+            font-size:28px;
+        }
+        .img-thumb {
+            object-fit:cover;
+            height:400px;
+            width:100%;
+            object-position:top;
+        }
+    }
+
+    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
+        width: 100%; // Ensure grid item fills its cell
+        .card {
+            width: 100%; // Ensure card fills grid item
+        }
+        .card-text {
+            display:none;
+        }
+        .img-thumb {
+            object-fit:cover;
+            height:160px;
+            width:100%;
+            object-position:top;
+        }
+        .card-title {
+            font-size:18px;
+            line-height:1.5;
+        }      
+    }
+}
+
 .image-shadow {   
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
     -moz-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
