@@ -5,6 +5,7 @@ date: 2024-10-23 00:00:00 +0000
 categories: [Lifestyle]
 tags: [sober living, lifestyle]
 image: 'assets/images/year_beer.avif'
+comments: false
 ---
 
 I've not written a blog post since I wrote about my big run over the summer and I've been meaning to do so for a while. To get back into the swing of things, I wanted to write a few thoughts about my experience of being sober for over a year, as of the start of October.

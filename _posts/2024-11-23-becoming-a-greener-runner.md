@@ -6,6 +6,7 @@ categories: [Running]
 tags: [running, lifestyle]
 image: 'assets/images/greener_runner.avif'
 toc: true
+comments: false
 ---
 
 I've been meaning to write this blog for a while now and since one of my pledges for the Green Runners this year is to speak out more, I decided that I should write it sooner rather than later. 

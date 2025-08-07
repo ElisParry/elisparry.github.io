@@ -6,6 +6,7 @@ categories: [Running]
 tags: [ultrarunning, running, nature]
 image: 'assets/images/pillars.avif'
 toc: true
+comments: false
 ---
 
 It's been longer than I would have liked since my first post but here is my next post! Having been put on the sidelines due to an ongoing foot issue for the past few months, I am patiently waiting until I am up and running again. When I start up again, there are always some key things that I include in my training for both increased performance and longevity. This post aims to share some of these principles that I use in the hope that you can maybe apply something from here to your own training. 

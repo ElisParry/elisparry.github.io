@@ -6,6 +6,7 @@ categories: [Running]
 tags: [running, ultrarunning, green running, sustainability]
 image: 'assets/images/change_blog.avif'
 toc: true
+comments: false
 ---
 Times are changing and I wish to be part of this change. I can now say that I have the pleasure of being one of the Re-Action Collectives' and Preloved Sports' first (un)sponsored athletes.
 

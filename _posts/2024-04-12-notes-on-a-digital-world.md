@@ -6,6 +6,7 @@ categories: [Lifestyle]
 tags: [technology]
 image: 'assets/images/digital_world.avif'
 toc: true
+comments: false
 ---
 
 I recently listened to Prajnaketu, author of Cyberloka: A Buddhist Guide to Digital Life, talk about some of the ideas presented in his book. This inspired me to write a few words about my recent discussion with Prajnaketu and other members of the Cambridge Buddhist Centre. 

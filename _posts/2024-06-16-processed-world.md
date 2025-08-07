@@ -6,6 +6,7 @@ categories: [Lifestyle]
 tags: [technology]
 image: 'assets/images/processed.avif'
 toc: true
+comments: false
 ---
 
 This post is slightly different to other posts, but it discusses a topic that I find very interesting, this being processed foods. Having learned about food and nutrition a little bit over the past few years, I thought I would start sharing some of the things that I have picked up in the hope that it can help inform others of some important information. 

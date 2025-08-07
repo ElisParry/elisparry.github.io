@@ -5,6 +5,7 @@ date: 2024-12-18 00:00:00 +0000
 categories: [Running]
 tags: [running, ultrarunning, racing]
 image: 'assets/images/celtic_ultra_cover.avif'
+comments: false
 ---
 
 At 8 am on Saturday morning, we set off in the cold morning light. It was pretty cold but dry, so I decided not to wear a coat at the start as I envisioned warming up pretty quickly on the first climb. Right from the start, someone set the pace high and I thought to myself that maybe I should let him go as I wasn't sure if I wanted to be going at that pace from the gun. But I remembered that I had come to race, so I tagged onto his back. 

@@ -9,9 +9,8 @@ categories: [Lifestyle]
 tags: [simplicity] 
 image: 'assets/images/Caravan.jpeg'
 toc: true
---- 
-
- 
+comments: false
+---
 
 It's been a couple of months since I last wrote a blog post. Things have been busy and challenging for me, but I am trying to take small steps in the right direction. This post will be brief, but, hopefully, a powerful reflection on my time living off the grid in a tiny caravan in late January this year. If anything, it will be a nice thing to look back at in the future.  
 

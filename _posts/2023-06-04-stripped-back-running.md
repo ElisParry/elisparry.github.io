@@ -6,6 +6,7 @@ categories: [Running]
 tags: [running, simplicity, social media]
 image: 'assets/images/stripped.avif'
 toc: true
+comments: false
 ---
 
 I've been wanting to start a blog to share some of my thoughts for a while, so here is my first post! These are a few words about **stripping back** to the basics of running.

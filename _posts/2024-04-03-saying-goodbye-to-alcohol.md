@@ -5,6 +5,7 @@ date: 2024-04-03 00:00:00 +0000
 categories: [Lifestyle]
 tags: [sober living, health]
 image: 'assets/images/alcohol.avif'
+comments: false
 ---
 
 It has now been around seven months since I made the decision to stop drinking alcohol and it has contributed significantly to my development as a human being. Here is a post about what led me to this decision and some of the things that I have noticed and learned since becoming sober. 

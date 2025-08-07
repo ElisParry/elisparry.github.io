@@ -6,6 +6,7 @@ categories: [Running]
 tags: [running, ultrarunning, green running, sustainability]
 toc: true
 image: 'assets/images/jacob_green_wyddfa.jpeg'
+comments: false
 ---
 
 The short answer to this is, no. We can't run away from this - as explained in ultrarunner Damian Hall's excellent book titled "We can't run away from this". 
