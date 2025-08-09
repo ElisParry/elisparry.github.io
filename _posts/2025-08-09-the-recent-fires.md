@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Forest fire ingnited fire"
+title: "A forest fire ingnited fire"
 date: 2025-08-09 00:00:00 +0000 
 categories: [Climate change] 
 tags: [lifestyle]
