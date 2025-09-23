@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Enshittification of apps"
+title: "The enshittification of social media"
 date: 2025-09-23 00:00:00 +0000 
 tags: [social media, technology]
 image: 'assets/images/campfire.jpg'
