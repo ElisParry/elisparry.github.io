@@ -4,7 +4,6 @@ permalink: /running
 comments: false
 image: 
 imageshadow: true
-toc: true
 ---
 
 # My running Journey.
@@ -30,8 +29,7 @@ December: Celtic Trails Races Ultra 55 km - 1st (new CR)
 
 **2022**
 
-October: Round Ripon Ultra 56 km - 1st
-
+October: Round Ripon Ultra 56 km - 1st  
 March: Derwent X-Trail 10 mile - 2nd
 
 **2021**
