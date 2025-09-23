@@ -112,20 +112,55 @@
 ================================================== -->
 <footer class="footer">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+        <div class="row align-items-center">
+            <div class="col-md-6 text-left mb-2 mb-md-0">
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
             </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">
-                {% if page.url != '/subscribe' %}
-                <a href="{{ site.baseurl }}/subscribe" class="btn btn-dark" style="padding:8px 20px;border-radius:0px;box-shadow:0 2px 8px rgba(0,0,0,0.10);font-weight:bold;">Subscribe</a>
-                {% endif %}
+            <div class="col-md-6 text-right">
+                <div style="margin-bottom:8px;font-weight:bold;">
+                    Join my newsletter to keep up to date.
+                </div>
+                <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" style="display:inline-flex;max-width:400px;width:100%;justify-content:flex-end;gap:8px;">
+                    <input type="email" name="_replyto" class="form-control" placeholder="Email address" required style="max-width:200px;">
+                    <input type="hidden" name="form_type" value="subscribe">
+                    <input class="btn btn-dark" type="submit" value="Sign up">
+                </form>
+                <div id="footer-subscribe-thankyou" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
             </div>
         </div>
     </div>
 </footer>
 <!-- End Footer
 ================================================== -->
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.getElementById('footer-subscribe-form');
+  var thankyou = document.getElementById('footer-subscribe-thankyou');
+  if(form) {
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var data = new FormData(form);
+      fetch(form.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      }).then(function(response) {
+        if (response.ok) {
+          form.style.display = 'none';
+          thankyou.style.display = 'block';
+        } else {
+          alert('There was a problem. Please try again later.');
+        }
+      }).catch(function() {
+        alert('There was a problem. Please try again later.');
+      });
+      return false;
+    }, false);
+  }
+});
+</script>
+
 
 </div> <!-- /.site-content -->
 
