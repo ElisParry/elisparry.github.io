@@ -421,6 +421,11 @@ img, img:hover {
     }
 }
 
+.card, .blog-grid-item {
+    border-radius: 12px;
+    overflow: hidden; /* Ensures child images also have rounded corners */
+}
+
 .image-shadow {   
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
     -moz-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
@@ -615,6 +620,14 @@ body.active-side {
 }
 
 //responsive tweaks
+@media (max-width: 768px) {
+    .firstpage .blog-grid-item:nth-child(2), 
+    .firstpage .blog-grid-item:nth-child(3) {
+        .card-text {
+            display: block !important; // Show summary text on mobile for 2nd and 3rd tiles
+        }
+    }
+}
 @media (min-width: 768px) {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 80%;

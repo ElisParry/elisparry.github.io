@@ -118,9 +118,9 @@
                     Join my newsletter to keep up to date.
                 </div>
                 <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" style="max-width:400px;width:100%;margin:0 auto;">
-                    <input type="email" name="_replyto" class="form-control mb-2" placeholder="Email address" required style="max-width:100%;margin-bottom:8px;">
+                    <input type="email" name="_replyto" class="footer-email-input mb-2" placeholder="Email address" required style="border:none;border-bottom:2px solid #333;border-radius:0;background:transparent;box-shadow:none;max-width:100%;margin-bottom:8px;">
                     <input type="hidden" name="form_type" value="subscribe">
-                    <input class="btn btn-dark mb-2" type="submit" value="Sign up" style="width:100%;">
+                    <input class="btn btn-dark mb-2 footer-signup-btn" type="submit" value="Sign up" style="width:100%;border-radius:12px;">
                 </form>
                 <div id="footer-subscribe-thankyou" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
                 <div style="margin-top:12px;">
@@ -135,15 +135,25 @@
                     Join my newsletter to keep up to date.
                 </div>
                 <form id="footer-subscribe-form-desktop" action="https://formspree.io/f/mblkpglk" method="POST" style="display:inline-flex;max-width:400px;width:100%;justify-content:flex-end;gap:8px;">
-                    <input type="email" name="_replyto" class="form-control" placeholder="Email address" required style="max-width:200px;">
+                    <input type="email" name="_replyto" class="footer-email-input" placeholder="Email address" required style="border:none;border-bottom:2px solid #333;border-radius:0;background:transparent;box-shadow:none;max-width:200px;">
                     <input type="hidden" name="form_type" value="subscribe">
-                    <input class="btn btn-dark" type="submit" value="Sign up">
+                    <input class="btn btn-dark footer-signup-btn" type="submit" value="Sign up" style="border-radius:12px;">
                 </form>
                 <div id="footer-subscribe-thankyou-desktop" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
             </div>
         </div>
     </div>
 </footer>
+<style>
+.footer-email-input:focus {
+    outline: none;
+    border-bottom: 2px solid #007bff;
+    background: transparent;
+}
+.footer-signup-btn {
+    border-radius: 12px !important;
+}
+</style>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Mobile form
