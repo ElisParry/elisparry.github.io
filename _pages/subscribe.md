@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Subscribe
+title: Newsletter subscription
 permalink: /subscribe
 comments: false
 ---
 
-<h2>Newsletter</h2>
 <p>Enter your email below to subscribe to my newsletter. I'll send an email to any newsletter subscribers whenever I post a new blog, sometimes with additional content too!</p>
 
 <form action="https://formspree.io/f/mblkpglk" method="POST">
