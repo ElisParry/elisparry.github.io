@@ -113,28 +113,40 @@
 <footer class="footer">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6 text-left mb-2 mb-md-0">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-            </div>
-            <div class="col-md-6 text-right">
+            <div class="col-12 d-block d-md-none text-center">
                 <div style="margin-bottom:8px;font-weight:bold;">
                     Join my newsletter to keep up to date.
                 </div>
-                <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" style="display:inline-flex;max-width:400px;width:100%;justify-content:flex-end;gap:8px;">
+                <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" style="max-width:400px;width:100%;margin:0 auto;">
+                    <input type="email" name="_replyto" class="form-control mb-2" placeholder="Email address" required style="max-width:100%;margin-bottom:8px;">
+                    <input type="hidden" name="form_type" value="subscribe">
+                    <input class="btn btn-dark mb-2" type="submit" value="Sign up" style="width:100%;">
+                </form>
+                <div id="footer-subscribe-thankyou" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
+                <div style="margin-top:12px;">
+                    <small>Copyright © {{ site.time | date: "%Y" }} {{ site.name }}</small>
+                </div>
+            </div>
+            <div class="col-md-6 text-left mb-2 mb-md-0 d-none d-md-block">
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+            </div>
+            <div class="col-md-6 text-right d-none d-md-block">
+                <div style="margin-bottom:8px;font-weight:bold;">
+                    Join my newsletter to keep up to date.
+                </div>
+                <form id="footer-subscribe-form-desktop" action="https://formspree.io/f/mblkpglk" method="POST" style="display:inline-flex;max-width:400px;width:100%;justify-content:flex-end;gap:8px;">
                     <input type="email" name="_replyto" class="form-control" placeholder="Email address" required style="max-width:200px;">
                     <input type="hidden" name="form_type" value="subscribe">
                     <input class="btn btn-dark" type="submit" value="Sign up">
                 </form>
-                <div id="footer-subscribe-thankyou" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
+                <div id="footer-subscribe-thankyou-desktop" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
             </div>
         </div>
     </div>
 </footer>
-<!-- End Footer
-================================================== -->
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // Mobile form
   var form = document.getElementById('footer-subscribe-form');
   var thankyou = document.getElementById('footer-subscribe-thankyou');
   if(form) {
@@ -149,6 +161,30 @@ document.addEventListener('DOMContentLoaded', function() {
         if (response.ok) {
           form.style.display = 'none';
           thankyou.style.display = 'block';
+        } else {
+          alert('There was a problem. Please try again later.');
+        }
+      }).catch(function() {
+        alert('There was a problem. Please try again later.');
+      });
+      return false;
+    }, false);
+  }
+  // Desktop form
+  var formDesktop = document.getElementById('footer-subscribe-form-desktop');
+  var thankyouDesktop = document.getElementById('footer-subscribe-thankyou-desktop');
+  if(formDesktop) {
+    formDesktop.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var data = new FormData(formDesktop);
+      fetch(formDesktop.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      }).then(function(response) {
+        if (response.ok) {
+          formDesktop.style.display = 'none';
+          thankyouDesktop.style.display = 'block';
         } else {
           alert('There was a problem. Please try again later.');
         }
