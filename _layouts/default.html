@@ -116,7 +116,10 @@
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">    
+            <div class="col-md-6 col-sm-12 text-center text-lg-right">
+                {% if page.url != '/subscribe' %}
+                <a href="{{ site.baseurl }}/subscribe" class="btn btn-dark" style="padding:8px 20px;border-radius:0px;box-shadow:0 2px 8px rgba(0,0,0,0.10);font-weight:bold;">Subscribe</a>
+                {% endif %}
             </div>
         </div>
     </div>
