@@ -625,6 +625,30 @@ body.active-side {
   vertical-align: middle;
 }
 
+.logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* space between logos */
+  flex-wrap: wrap; /* allows wrapping if needed */
+}
+
+.logo-img {
+  max-width: 125px;
+  height: auto;
+}
+
+.logo-img.small {
+  max-width: 25px;
+}
+
+/* 📱 On mobile, stack vertically */
+@media (max-width: 125px) {
+  .logo-row {
+    flex-direction: column;
+    gap: 15px; /* more space between stacked logos */
+  }
+}
 
 
 .inline-logo {
