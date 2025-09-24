@@ -620,16 +620,9 @@ body.active-side {
 }
 
 .menu-logo {
-  width: 65px; /* Adjust width as needed */
-  height: auto; /* Maintains aspect ratio */
-  vertical-align: middle; /* Aligns nicely with text if needed */
-}
-
-/* Smaller screens (e.g., phones) */
-@media (max-width: 768px) {
-  .menu-logo {
-    width: 18px; /* Adjust this to match your menu text size */
-  }
+  width: 3em;   /* 2 × the font size of the menu text */
+  height: auto;
+  vertical-align: middle;
 }
 
 
