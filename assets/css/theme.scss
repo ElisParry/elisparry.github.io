@@ -643,7 +643,7 @@ body.active-side {
 }
 
 /* 📱 On mobile, stack vertically */
-@media (max-width: 125px) {
+@media (max-width: 100px) {
   .logo-row {
     flex-direction: column;
     gap: 15px; /* more space between stacked logos */
