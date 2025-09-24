@@ -219,7 +219,7 @@ img, img:hover {
                 text-decoration: none;
                 color: rgba(8, 11, 16, 0.7);
                 font-weight: 400;
-                font-size: 22px;
+                font-size: 18px;
                 position: relative;
             }
         }
@@ -617,6 +617,19 @@ body.active-side {
     border-top:1px solid $gray-200;
     font-size:15px;
     background:#fff;
+}
+
+.menu-logo {
+  width: 65px; /* Adjust width as needed */
+  height: auto; /* Maintains aspect ratio */
+  vertical-align: middle; /* Aligns nicely with text if needed */
+}
+
+.inline-logo {
+  width: 32px; /* Adjust size as needed */
+  height: auto;
+  vertical-align: -7.5px; /* Keeps it aligned with text */
+  margin: 0 0px; /* Optional spacing around the image */
 }
 
 
