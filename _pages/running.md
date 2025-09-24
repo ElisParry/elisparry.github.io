@@ -6,7 +6,6 @@ image:
 imageshadow: true
 ---
 
-# My running Journey.
 If you haven't guessed, I quite like to run. Not just run, run far.
 
 I discovered running during the first COVID lockdown and since then, it has been a big part of my life. I had ran a little when I was younger, training with my local triathlon club for a few years, but no more than a couple of miles. It started as a little hobby, going out for the odd 3km run a couple of times a week, but I soon realised that it was something I really enjoyed. A 3km became a 10km, which became a half marathon. After a couple of months of running I was hooked.
