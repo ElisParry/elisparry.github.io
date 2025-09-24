@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book shelf
+title: Book shelf.
 permalink: /book_shelf
 comments: false
 image: 

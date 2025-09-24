@@ -651,13 +651,19 @@ body.active-side {
 }
 
 
-.inline-logo {
+.inline-logo-joy {
   width: 32px; /* Adjust size as needed */
   height: auto;
-  vertical-align: -7.5px; /* Keeps it aligned with text */
+  vertical-align: -9px; /* Keeps it aligned with text */
   margin: 0 0px; /* Optional spacing around the image */
 }
 
+.inline-logo-run {
+  width: 35px; /* Adjust size as needed */
+  height: auto;
+  vertical-align: -6.7px; /* Keeps it aligned with text */
+  margin: 0 0px; /* Optional spacing around the image */
+}
 
 //responsive tweaks
 @media (max-width: 768px) {

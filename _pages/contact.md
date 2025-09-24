@@ -11,14 +11,14 @@ comments: false
   <p class="mb-4">Please use the form or send me an email if you would like to get in touch. I'll try to reply as soon as possible!</p>
   <div class="form-group row">
     <div class="col-md-6">
-      <input class="form-control" type="text" name="name" placeholder="Name*" required>
+      <input class="form-control" type="text" name="name" placeholder="Name*" required style="border:none;border-bottom:2px solid #333;border-radius:0;background:transparent;box-shadow:none;max-width:100%;margin-bottom:8px;">
     </div>
     <div class="col-md-6">
-      <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
+      <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required style="border:none;border-bottom:2px solid #333;border-radius:0;background:transparent;box-shadow:none;max-width:100%;margin-bottom:8px;">
     </div>
   </div>
-  <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>
-  <input class="btn btn-dark" type="submit" value="Send">
+  <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required style ="border-radius:12px;"></textarea>
+  <input class="btn btn-dark" type="submit" value="Send" style="border-radius:12px;">
 </form>
 <div id="contact-thankyou" style="display:none;">
   <p>Thank you for contacting me. I will get back to you soon.</p>
