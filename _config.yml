@@ -3,6 +3,7 @@ name: "Elis Glyn Parry"
 title: "Elis Glyn Parry"
 description: "Find your why." 
 logo: 'assets/images/Logo_blog.png'
+favicon: 'assets/images/Logo_blog.png'
 baseurl: 
 google_analytics:
 disqus: 

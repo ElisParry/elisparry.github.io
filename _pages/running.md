@@ -1,12 +1,11 @@
 ---
 layout: page
+title: My running Journey.
 permalink: /running
 comments: false
 image: 
 imageshadow: true
 ---
-
-# My running Journey.
 
 If you haven't guessed, I quite like to run. Not just run, run far.
 

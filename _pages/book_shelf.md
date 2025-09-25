@@ -12,25 +12,30 @@ Here are some books that I've enjoyed reading related to some of the topics disc
 .books-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 32px;
+  gap: 24px; /* reduced from 32px */
   justify-items: center;
+  align-items: end; /* aligns bottoms of items */
   margin-top: 32px;
 }
 @media (max-width: 700px) {
   .books-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 16px; /* reduced from 20px */
+    align-items: end;
   }
 }
 .book-item {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* ensures image sits at bottom */
 }
 .book-item img {
   width: 120px;
   border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
 }
 </style>
+
 
 # Running
 
@@ -47,4 +52,14 @@ Here are some books that I've enjoyed reading related to some of the topics disc
   <div class="book-item">
     <img src="/assets/images/Books/running_up_hill.jpg" alt="Running up That Hill">
   </div>
+  <div class="book-item">
+    <img src="/assets/images/Books/endurance_handbook.webp" alt="The Endurance Handbook">
+  </div>
+  <div class="book-item">
+    <img src="/assets/images/Books/skyrunner.webp" alt="Skyrunner">
+  </div>
 </div>
+
+
+
+Note: Book covers are displayed here for informational purposes only. I do not own the rights to these images. All rights remain with the respective authors and publishers.
