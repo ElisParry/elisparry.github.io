@@ -10,7 +10,7 @@ disqus:
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-email: elisgparry@sky.com
+email: elisparry@proton.me
 
 # Authors
 plugins:
