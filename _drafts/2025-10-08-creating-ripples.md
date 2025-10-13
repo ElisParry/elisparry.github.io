@@ -2,8 +2,8 @@
 layout: post
 title: "Creating ripples"
 date: 2025-10-08 00:00:00 +0000 
-tags: []
-image:
+tags: [running]
+image: 'assets/images/crib_goch_action_shot.jpg'
 toc: true
 --- 
 

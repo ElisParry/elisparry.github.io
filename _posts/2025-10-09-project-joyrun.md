@@ -8,7 +8,7 @@ date: 2025-10-09 00:00:00 +0000
 
 tags: [running, ultrarunning] 
 
-image: 
+image: 'assets/images/crib_goch_action_shot.jpg'
 
 toc: true 
 
