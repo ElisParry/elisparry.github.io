@@ -7,6 +7,7 @@ image:
 imageshadow: true
 ---
 
+# Re-Action
 {:refdef: style="text-align: center;"}
 <div class="logo-row">
   <img src="assets/images/re_action.png" alt="ReAction Logo" class="logo-img" />
@@ -21,7 +22,13 @@ My mission is to inspire and support others to chase their dreams whilst respect
 
 ​Learn more about Re-Action and Preloved Sports by following these links: [Re-Action Collective](https://re-action-collective.org/), [Preloved Sports CIC](https://prelovedsports.org.uk/).
 
-# The Green Runners.
+# Moggans
+{:refdef: style="text-align: center;"}
+![Moggans](assets/images/moggans_logo.webp){: width="200" }
+{: refdef}
+In 2025, I started being supported by Moggans socks. One of my pledges and goals as a Green Runner is to reduce the amount of kit that I buy. However, socks are just one of those things that always eventually wear out. Moggans' mission aligns with my values - striving to create high-quality, durable socks in an ethical and sustainable way. I've been a fan of merino wool for a while. It wicks sweat, stays cool, and even cleans itself! Being supported by a UK brand who also care about the planet is great and I'm excited to start working with Moggans to help make their socks even better! 
+
+# The Green Runners
 {:refdef: style="text-align: center;"}
 ![Green Runners](assets/images/green_runners.webp){: width="300" }
 {: refdef}
@@ -30,3 +37,5 @@ My mission is to inspire and support others to chase their dreams whilst respect
 By being part of the Green Runners, I aim to educate myself and others about climate change as well as the effect that the sport of running is having on our planet to make running a greener community. When racing, and even when running around my local area, I try to spread The Green Runners' message and proudly wear my badge.
 
 We're running out of time. Join The Green Runners [now](https://thegreenrunners.com/become-a-member/). 
+
+
