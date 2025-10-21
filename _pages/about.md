@@ -13,5 +13,7 @@ My philosophy is to do what you love. So when I'm not doing physics, I like to s
 
 I hope you enjoy.
 
+Also, I have no presence on any social media platforms.
+
 
 
