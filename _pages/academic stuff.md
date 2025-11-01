@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Stuff
+title: Academic Stuff.
 permalink: /academic_stuff/
 ---
 
