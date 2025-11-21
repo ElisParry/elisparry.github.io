@@ -13,14 +13,20 @@ Here are some books that I've enjoyed reading related to some of the topics disc
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 24px; /* reduced from 32px */
-  justify-items: center;
+  justify-items: start;     /* LEFT-align items in each grid cell */
+  justify-content: start;   /* align the whole grid to the left within container */
   align-items: end; /* aligns bottoms of items */
   margin-top: 32px;
+  max-width: 1100px; /* keep grid from stretching too wide */
+  margin-left: auto;
+  margin-right: auto;
 }
 @media (max-width: 700px) {
   .books-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 16px; /* reduced from 20px */
+    justify-items: start;
+    justify-content: start;
     align-items: end;
   }
 }
@@ -29,13 +35,24 @@ Here are some books that I've enjoyed reading related to some of the topics disc
   display: flex;
   flex-direction: column;
   justify-content: flex-end; /* ensures image sits at bottom */
+  align-items: flex-start;    /* keep content in each cell left-aligned */
 }
 .book-item img {
   width: 120px;
   border-radius: 8px;
+  display: block;
 }
+.books-grid + h1,
+  .books-grid + h2 {
+    margin-top: 48px;
+  }
+@media (max-width: 700px) {
+    .books-grid + h1,
+    .books-grid + h2 {
+      margin-top: 28px;
+    }
+  }
 </style>
-
 
 # Running
 
@@ -60,6 +77,21 @@ Here are some books that I've enjoyed reading related to some of the topics disc
   </div>
 </div>
 
+# Life
+
+<div class="books-grid">
+  <div class="book-item">
+    <img src="/assets/images/Books/can_the_mind_be_quiet.jpg" alt="Can The Mind Be Quiet?">
+  </div>
+</div>
+
+# Climate
+
+<div class="books-grid">
+  <div class="book-item">
+    <img src="/assets/images/Books/changes_everything.jpg" alt="This Changes Everything">
+  </div>
+</div>
 
 
 Note: Book covers are displayed here for informational purposes only. I do not own the rights to these images. All rights remain with the respective authors and publishers.
