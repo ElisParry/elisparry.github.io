@@ -9,30 +9,8 @@ toc: false
 comments: false
 ---
 
-<style>
-.poem {
-  max-width: 720px;
-  margin: 8px auto;        /* reduced vertical gap above/below the poem */
-  text-align: left;
-  line-height: 1.45;
-  font-size: 1.03rem;
-  white-space: pre-wrap;   /* preserve line breaks */
-  padding: 8px 14px;       /* slightly smaller padding to tighten the block */
-}
-.poem p { margin: 0; }     /* ensure no extra paragraph margins inside the block */
 
-/* make the poem title bold */
-.poem .poem-title {
-  font-weight: 700;
-  margin-bottom: 8px;
-  display: block;
-  font-size: 1.08rem;
-}
-</style>
-
-
-
-Here's a poem that came to my mind at 7 am the morning the week before Black Friday. I mistakenly thought that it was Black Friday, likely because it's been screamed at me for the past couple of week. But I decided that it's probably better to post this now. Almost as a gentle reminder. The poem is called *Division from tunnel vision*.
+Here's a poem that came to my mind at 7 am the morning the week before Black Friday. I mistakenly thought that it was Black Friday, likely because it's been screamed at me for the past couple of weeks. But I decided that it's probably better to post this now. Almost as a gentle reminder. The poem is called *Division from tunnel vision*.
 
 <div class="poem">
 <div class="poem-title">Division from tunnel vision</div>
