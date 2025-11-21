@@ -610,6 +610,26 @@ body.active-side {
         transition: opacity 0.5s linear;
     }
 }
+
+.poem {
+  max-width: 720px;
+  margin: 8px auto;        /* reduced vertical gap above/below the poem */
+  text-align: left;
+  line-height: 1.45;
+  font-size: 1.03rem;
+  white-space: pre-wrap;   /* preserve line breaks */
+  padding: 8px 14px;       /* slightly smaller padding to tighten the block */
+}
+.poem p { margin: 0; }     /* ensure no extra paragraph margins inside the block */
+
+/* make the poem title bold */
+.poem .poem-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+  display: block;
+  font-size: 1.08rem;
+}
+
 //footer
 .footer {
     margin-top:30px;
