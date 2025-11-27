@@ -20,5 +20,7 @@ Over the next few months training and preparing for the race became my priority.
 And that's where my slight obsession for ultra-running started, June 2021. Since then, I have been training as much as I can (providing I'm injury free) and I am looking forward to seeing what the future holds.
 
 # Results. 
-I used to have a section here summarising my running results up to now. I've decided to remove it in an attempt to move away results-driven running towards feeling-driven running. Results don't define us as runners.
+I used to have a section here summarising my running results up to now. I've decided to remove it in an attempt to move away from results-driven running towards feeling-driven running. 
+
+Results don't define us as runners.
 
