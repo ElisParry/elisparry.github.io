@@ -48,7 +48,7 @@ Luckily, we're already seeing the seeds of systemic change. Take for example the
 ![Mirror](/assets/images/mirror.png){: width="650" }
 {: refdef}
 {:.image-caption}
-* My mirror analogy of positive and negative tipping points/changes.*
+*My mirror analogy of positive and negative tipping points/changes.*
 
 
 
@@ -81,7 +81,6 @@ So, we might think that it's a simple challenge to solve: don't cross negative t
 
 
 To better understand what tipping means more generally, I've tried to use my creativity to create an analogy using high-altitude mountaineering as the analogue. In the diagram below, the 'chart' to the left is roughly what tipping of a given system from one state to another looks like. Such systems can be referred to as 'bistable', meaning that they can exist in one of two stable equilibrium states. For the layperson, we can think of it simply as a seesaw, where one stable state is where the seesaw is leaning one way, and the other is when it is leaning the other way (it's more complex than this, but this will do for now). In the diagram, the 'upper branch' represents one stable state, and the lower branch represents another. As we crank up our control variable – global temperature, for example – we move along the black 'line' in the chart. If we crank our variable up too much, we 'tip' from one stable state into the other. This is scenario 1 in the diagram. This can be thought of as someone climbing Everest and doing one push to the top without acclimatising. They'll end up dying from hypoxia in the death zone, possibly even at some point before. Their new stable state is being dead – the same system, but now the stable state has gone from being alive to dead. Now, the reason not all tipping elements are equal is because this behaviour occurs only in fast tipping systems. If a system tips slower, then there is a region where we can operate in – continuing to crank up our control – where we can recover from a temporary overshoot in our control. This is scenario 2 in the diagram and is similar to high-altitude mountaineering in my head, where we can spend some time at higher altitudes and survive (stay in the alive state) so long as we return to lower altitudes quickly enough. For tipping elements, this means that we could possibly get away with exceeding, let's say, 1.5 degrees; however, we must *limit* the time we spend here. 
-
 
 
 {:refdef: style="text-align: center;"}
