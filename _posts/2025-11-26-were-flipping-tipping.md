@@ -45,13 +45,10 @@ Luckily, we're already seeing the seeds of systemic change. Take for example the
 
 
 {:refdef: style="text-align: center;"}
-
 ![Mirror](/assets/images/mirror.png){: width="650" }
-
 {: refdef}
-
 {:.image-caption}
-* My mirror analogy of positive and negative tipping points/changes.
+* My mirror analogy of positive and negative tipping points/changes.*
 
 
 
@@ -88,13 +85,10 @@ To better understand what tipping means more generally, I've tried to use my cre
 
 
 {:refdef: style="text-align: center;"}
-
 ![Mirror](/assets/images/mountain_tipping.png){: width="550" }
-
 {: refdef}
-
 {:.image-caption}
-*My high-altitude mountaineering analogy for tipping points / changes.
+*My high-altitude mountaineering analogy for tipping points / changes.*
 
 
 
