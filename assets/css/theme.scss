@@ -16,6 +16,7 @@ $enable-rounded: false;
 @import 'stars';
 
 
+
 // general
 body, input, button, select, optgroup, textarea {   
     font-family:Sen;
@@ -24,6 +25,10 @@ body {
     line-height:1.7;
     background: #f4f4f4;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agetya+Serif:wght@400;700&display=swap');
+
 a {
     color: darken($primary, 24%);
 }
@@ -454,7 +459,7 @@ img, img:hover {
     }
 }
 .article-post {    
-    font-size:18px;
+    font-size:16px;
     p {
         margin-top:30px;
         margin-bottom:30px;

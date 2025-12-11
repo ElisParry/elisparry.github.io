@@ -26,7 +26,7 @@ My mission is to inspire and support others to chase their dreams whilst respect
 {:refdef: style="text-align: center;"}
 ![Moggans](assets/images/moggans_logo.webp){: width="200" }
 {: refdef}
-In 2025, I started being supported by Moggans socks. One of my pledges and goals as a Green Runner is to reduce the amount of kit that I buy. However, socks are just one of those things that always eventually wear out. Moggans' mission aligns with my values - striving to create high-quality, durable socks in an ethical and sustainable way. I've been a fan of merino wool for a while. It wicks sweat, stays cool, and even cleans itself! Being supported by a UK brand who also care about the planet is great and I'm excited to start working with Moggans to help make their socks even better! 
+In 2025, I started being supported by Moggans. One of my pledges and goals as a Green Runner is to reduce the amount of kit that I buy. However, socks are just one of those things that always eventually wear out. Moggans' mission aligns with my values - striving to create high-quality, durable socks in an ethical and sustainable way. I've been a fan of merino wool for a while. It wicks sweat, stays cool, and even cleans itself! Being supported by a UK brand who also care about the planet is great and I'm excited to start working with Moggans to help make their socks even better! 
 
 # The Green Runners
 {:refdef: style="text-align: center;"}
