@@ -4,7 +4,7 @@ layout: post
 
 title: "Sorry Strava"
 
-date: 2025-11-26 00:00:00 +0000
+date: 2025-12-11 00:00:00 +0000
 
 categories: [Running]
 
