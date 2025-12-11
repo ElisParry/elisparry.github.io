@@ -6,7 +6,7 @@ title: "Sorry Strava"
 
 date: 2025-11-26 00:00:00 +0000
 
-categories: [Nature]
+categories: [Running]
 
 tags: [running, simplicity, social media]
 
