@@ -10,15 +10,13 @@ description: |
   This is my take on a homemade energy gel. I've not used energy gels since my first ultra back in 2021. They're expensive, full of strange ingredients, and create a whole load of waste from their packaging. I needed something a bit lighter and more compact than my usual bananas for a 5 hr recce on the Anglesey Coastal Path, so decided to just blitz as many bananas as possible in a blender and add a couple of extras to make an energy gel.
 
 ingredients: |
-  - 8 medium ripe bananas 
-  - 2 tbsp honey
-  - 2 tbsp extra virgin olive oil
-  - Salt
+  **8 medium ripe bananas <br />
+  2 tbsp honey <br />
+  2 tbsp extra virgin olive oil <br />
+  Salt**
 
 method: |
-  1. Add everything to a blender and blitz into a puree. 
-  2. Add salt based off your required intake (this will vary depending on how much you sweat).
-  3. Pour into a soft flask or two and store in the fridge until your run. 
+  Add everything to a blender and blitz into a puree.Add a little salt based off your required intake (this will vary depending on how much you sweat).Pour into a soft flask or two and store in the fridge until your run. 
 
   Note: it should just about fit in one 500 ml soft flask unless your bananas are giant.
 
