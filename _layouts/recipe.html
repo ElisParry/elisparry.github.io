@@ -1,0 +1,70 @@
+---
+layout: default
+comments: false
+---
+
+<div class="entry-header">
+    <h1 class="posttitle">{{ page.title }}</h1>
+</div>
+
+<!-- Featured Image -->
+{% if page.image %}
+<div class="entry-featured-image">
+    {% if site.lazyimages == "enabled" %}
+        <img class="lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}" style="border-radius:12px;">
+    {% else %}
+        <img src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}" style="border-radius:12px;">
+    {% endif %}
+</div>
+{% endif %}
+<!-- Recipe Layout: simple structure
+     - meta row (prep/servings)
+     - description (full width)
+     - two-column row: ingredients | method
+-->
+<div class="recipe-container">
+
+  {%- comment -%} Meta row: left = prep_time, right = servings {%- endcomment -%}
+  <div class="recipe-meta-row">
+    <div class="meta-left">
+      {% if page.prep_time %}
+        <p><strong>Prep time:</strong> {{ page.prep_time }}</p>
+      {% endif %}
+    </div>
+    <div class="meta-right">
+      {% if page.servings %}
+        <p><strong>Servings:</strong> {{ page.servings }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  {%- assign desc_md = page.description | default: page.content | split: '---INGREDIENTS---' | first -%}
+  {%- assign ingredients_md = page.ingredients | default: page.content | split: '---INGREDIENTS---' | last | split: '---METHOD---' | first -%}
+  {%- assign method_md = page.method | default: page.content | split: '---METHOD---' | last | split: '---USE---' | first -%}
+  {%- assign use_md = page.use | default: page.content | split: '---USE---' | last -%}
+
+  <div class="recipe-description">
+    {{ desc_md | markdownify }}
+  </div>
+
+  <div class="recipe-row">
+    <div class="recipe-ingredients">
+      <h3>Ingredients</h3>
+      {{ ingredients_md | markdownify }}
+    </div>
+    <div class="recipe-method">
+      <h3>Method</h3>
+      {{ method_md | markdownify }}
+    </div>
+  </div>
+
+  <div class="recipe-use">
+    <h3>In action</h3>
+    {{ use_md | markdownify }}
+  </div>
+
+
+</div>
+
+<!-- Comments if not disabled -->
+{% include comments.html %}

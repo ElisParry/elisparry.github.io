@@ -824,3 +824,86 @@ body.active-side {
         }
     }
 }
+
+/* Recipe Layout */
+.recipe-container {
+    max-width: 740px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.recipe-description {
+    margin-top: 0;
+    margin-bottom: 30px; /* same gap as above the description */
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.recipe-use {
+    margin-top: 0;
+    margin-bottom: 60px; /* same gap as above the description */
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.recipe-row {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 30px;
+    margin-bottom: 30px;
+    align-items: start; /* ensure both column headings align vertically */
+}
+
+/* Meta row (prep time / servings) shown above description */
+.recipe-meta-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    margin-bottom: 20px; /* reduced gap between meta row and description */
+    align-items: start;
+}
+.recipe-meta-row .meta-left,
+.recipe-meta-row .meta-right {
+    font-size: 16px;
+}
+.recipe-meta-row .meta-right {
+    text-align: left; /* left-align within right column */
+}
+
+.recipe-ingredients {
+    font-size: 16px;
+    line-height: 1.8;
+    h3 {
+        margin-top: 0;
+    }
+    ul, ol {
+        padding-left: 20px;
+    }
+}
+
+.recipe-method {
+    font-size: 16px;
+    line-height: 1.8;
+    h3 {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .recipe-row {
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+    .recipe-container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
