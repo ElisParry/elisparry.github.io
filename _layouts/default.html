@@ -13,6 +13,7 @@
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
 <link href="{{ '/assets/css/theme.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/assets/css/subscribe.css' | relative_url }}" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
@@ -216,6 +217,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 </div> <!-- /.site-content -->
+
+{% include subscribe-popup.html %}
 
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->

@@ -1,0 +1,84 @@
+/* Floating subscribe pill */
+.subscribe-pill {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 1200;
+  cursor: pointer;
+  user-select: none;
+  /* keep size compact while reusing footer button styles */
+  /* equal vertical and horizontal padding to balance top/side spacing */
+  padding: 10px;
+  border-radius: 12px !important;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  /* narrower width */
+  min-width: 90px;
+  max-width: 120px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* Modal overlay */
+.subscribe-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  align-items: center;
+  justify-content: center;
+  z-index: 1300;
+  padding: 20px;
+}
+
+.subscribe-modal-content {
+  background: #fff;
+  max-width: 520px;
+  width: 100%;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.35);
+  position: relative;
+}
+
+.subscribe-close {
+  position: absolute;
+  right: 12px;
+  top: 8px;
+  background: transparent;
+  border: none;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.subscribe-modal .footer-email-input {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  border: none;
+  border-bottom: 2px solid #333;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  box-sizing: border-box;
+}
+
+.subscribe-modal .footer-signup-btn {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 12px !important;
+  width: 100%;
+}
+
+/* Prevent the footer focus style (blue underline) from applying inside the modal */
+.subscribe-modal .footer-email-input:focus {
+  outline: none;
+  border-bottom: 2px solid #333;
+  background: transparent;
+}
+
+@media (max-width: 480px) {
+  .subscribe-pill { right: 14px; bottom: 14px; padding: 10px; min-width: 80px; max-width: 110px; }
+  .subscribe-modal-content { padding: 18px; }
+}
