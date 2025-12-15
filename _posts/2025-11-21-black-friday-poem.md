@@ -49,7 +49,7 @@ stop wearing this costume.
 Let's stop this division,  
 caused by our tunnel vision.
 
-by Elis Glyn Parry
+by elis glyn parry
 </div>
 
 Having written this poem, I wanted to write a few words explaining what some of it means - that is, where these thoughts came from and what their true meaning is. I'll go verse by verse to make it easier for you to follow.
