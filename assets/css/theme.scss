@@ -39,6 +39,7 @@ img {
 
 h1,h2,h3,h4,h5,h6 {
     font-weight:700;
+    font-family: "Libre Baskerville", Georgia, Times, serif;
 }
 .site-content {
     padding-top:20px;
@@ -47,10 +48,19 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;    
     line-height:1.3;
     font-size:35px;
+    font-family: "Libre Baskerville", Georgia, Times, serif;
     @include media-breakpoint-up(sm) {
         font-size:50px;
         line-height:1.2;
     }
+}
+.site-description {
+    font-size:16px;
+    font-family:"Libre Baskerville", Georgia, Times, serif;
+    line-height:1.6;
+    text-align:left;
+    margin-top:15px;
+    color:#333;
 }
 .bigradius {
     border-radius: 40px;
@@ -263,6 +273,7 @@ img, img:hover {
         font-weight:700;
         font-size:22px;
         line-height:1.4;
+        font-family: "Libre Baskerville", Georgia, Times, serif;
         a { 
             background-image: linear-gradient(180deg, transparent 89%, $primary 0);
             background-repeat: no-repeat;
@@ -279,6 +290,7 @@ img, img:hover {
         font-size:16px;
         line-height:1.8;
         margin-top:15px;
+        font-family: Sen;
     }
     .card-footer {
        font-size:14px;
@@ -372,6 +384,7 @@ img, img:hover {
     font-size:50px;
     font-weight:700;
     line-height:1.2;
+    font-family: "Libre Baskerville", Georgia, Times, serif;
 }
 .entry-featured-image {  
     width:700px;  
@@ -588,6 +601,7 @@ img, img:hover {
         line-height:1.2;
         display:block;
         font-size:20px;
+        font-family: "Libre Baskerville", Georgia, Times, serif;
         margin-bottom:5px;
         &:hover {
             color: darken($primary,20%);
@@ -633,6 +647,7 @@ body.active-side {
   margin-bottom: 8px;
   display: block;
   font-size: 1.08rem;
+  font-family: "Libre Baskerville", Georgia, Times, serif;
 }
 
 //footer

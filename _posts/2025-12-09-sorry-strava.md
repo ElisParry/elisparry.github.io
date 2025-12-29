@@ -8,7 +8,7 @@ date: 2025-12-11 00:00:00 +0000
 
 categories: [Running]
 
-tags: [running, simplicity, social media]
+tags: [simplicity, social media]
 
 image: 'assets/images/field.jpg'
 
