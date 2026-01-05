@@ -4,7 +4,7 @@ title: "Processed world?"
 date: 2024-06-16 00:00:00 +0000
 categories: [Lifestyle]
 tags: [technology]
-image: 'assets/images/processed.avif'
+image: 'assets/images/double_rainbow.jpg'
 toc: true
 comments: false
 ---
