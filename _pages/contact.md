@@ -78,7 +78,3 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
----
-
-Also, if you are interested in my academic/professional life - which is also just part of my life - here is a copy of my <a href="/assets/files/Academic_CV_EP_Oct2025.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
-
