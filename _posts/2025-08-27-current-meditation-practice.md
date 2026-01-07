@@ -56,4 +56,4 @@ That's my meditation practice at the moment. I hope that it can be useful to som
 
 If you are just starting, I suggest incrementally adding each step highlighted above over a few weeks. Start off just with the longest of counting for 5-10 minutes. Then, after a few days/sessions of this, try adding the longer of counting. Over time, keep adding the next stage once you become comfortable with the current one until you are practicing all of the steps above. 
 
-Please email me if you have any questions. Thank you for reading, Elis. 
+Please email me if you have any questions. Thank you for reading, elis. 
