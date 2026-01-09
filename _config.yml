@@ -3,7 +3,7 @@ name: "elis glyn parry"
 title: "elis glyn parry"
 description: "find your <em style=\"font-family: 'PT Serif', Georgia, Times, serif;\">why</em>."
 logo: 'assets/images/Logo_blog.png'
-favicon: 'assets/images/Logo_blog.png'
+favicon: 'assets/images/pam_favicon.png'
 baseurl: 
 google_analytics:
 disqus: 
