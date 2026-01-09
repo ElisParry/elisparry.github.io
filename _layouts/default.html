@@ -79,7 +79,13 @@
 
     <!-- Site Logo/Name
     ================================================== -->
-    <div style="height:40px;margin-bottom:20px;margin-top:20px;"></div>
+    {% if page.url == '/' %}
+        <div style="margin-bottom:20px;margin-top:20px;">
+            <img src="{{ site.baseurl }}/assets/images/pam_logo.png" alt="PAM Logo" style="max-height:80px; height:auto;">
+        </div>
+    {% else %}
+        <div style="height:40px;margin-bottom:20px;margin-top:20px;"></div>
+    {% endif %}
    
 
     <!-- Site Tag
@@ -89,7 +95,7 @@
             {{ site.description }}
         </p>
         <p class="site-description">
-            I'm elis, and this is my blog. I share some of my thoughts on topics like running, the environment, meditation, technology, and sobriety. I've also started a project called joyrun, where I hope to help you (re)find joy in your running. Enjoy!
+            'Pam' means why in Welsh. Spam means <em>"to bombard...with unsolicited and unwanted material over the internet". </em> And, in reverse, it reads 'map'. These words describe what I share here quite well: thoughts on topics like running, the environment, meditation, technology, and sobriety.
         </p>
     {% endif %}
 
@@ -121,7 +127,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12 d-block d-md-none text-center">
-                <div style="margin-bottom:8px;font-weight:bold;">
+                <div style="margin-bottom:8px;">
                     Join my newsletter to keep up to date.
                 </div>
                 <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" style="max-width:400px;width:100%;margin:0 auto;">
@@ -138,7 +144,7 @@
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
             </div>
             <div class="col-md-6 text-right d-none d-md-block">
-                <div style="margin-bottom:8px;font-weight:bold;">
+                <div style="margin-bottom:8px;">
                     Join my newsletter to keep up to date.
                 </div>
                 <form id="footer-subscribe-form-desktop" action="https://formspree.io/f/mblkpglk" method="POST" style="display:inline-flex;max-width:400px;width:100%;justify-content:flex-end;gap:8px;">
