@@ -41,4 +41,4 @@ To finish off, more often than not in modern society we feel the need to conform
 That's it for this blog. It was a little bit of a ramble, however, I hope that it sheds some light on what it is like to lead a sober life. I do not want to paint a false picture of a perfect life, as this is far from the case. However, I wish to share my experiences to help others who are interested in stopping drinking. Going forward, I hope to help tackle the stigma that still remains regarding being sober and help spread the message that an alcohol-free life can be a fun life. 	
 
 
-Thank you for taking the time to read this post, Elis.
+Thank you for taking the time to read this post, elis.
