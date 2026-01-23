@@ -50,6 +50,19 @@ img {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "Marcellus", Georgia, Times, serif;
+    text-transform: lowercase;
+}
+.card-title {
+    text-transform: lowercase;
+}
+.card-text {
+    text-transform: none;
+}
+.toc a {
+    text-transform: lowercase;
+}
+#menu a {
+    text-transform: lowercase;
 }
 .site-content {
     padding-top:20px;
