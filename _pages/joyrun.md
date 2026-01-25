@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project joyrun.
+title: Project joyrun
 permalink: /joyrun
 comments: false
 image: 

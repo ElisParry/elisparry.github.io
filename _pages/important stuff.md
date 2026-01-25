@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partnerships.
+title: Partnerships
 permalink: /important_stuff
 comments: false
 image: 

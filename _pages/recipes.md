@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes.
+title: Recipes
 permalink: /recipes
 comments: false
 image: 

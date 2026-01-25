@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A little bit about me.
+title: about me
 permalink: /about
 comments: false
 image: 

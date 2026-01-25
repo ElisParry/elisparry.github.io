@@ -495,6 +495,8 @@ img, img:hover {
 }
 .article-post {    
     font-size:16px;
+    text-align: justify;
+    hyphens: auto;
     p {
         margin-top:30px;
         margin-bottom:30px;
