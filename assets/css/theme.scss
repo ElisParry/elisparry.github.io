@@ -937,6 +937,11 @@ body.active-side {
     }
 }
 
+// Override badge font-weight for category titles
+.badge.badge-primary {
+    font-weight: normal;
+}
+
 @media (max-width: 768px) {
     .recipe-row {
         grid-template-columns: 1fr;
