@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Untethering oneself: consciousness"
-date: 2026-01-24 00:00:00 +0000
+date: 2026-01-25 00:00:00 +0000
 categories: [Lifestyle]
 tags: []
 image: 'assets/images/trees.jpg'
