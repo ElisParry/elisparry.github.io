@@ -4,7 +4,7 @@ title: "To paint with no pint"
 date: 2026-01-31 00:00:00 +0000
 categories: [Lifestyle]
 tags: [sober living]
-image: 'assets/images/sea.jpg'
+image: 'assets/images/sea_italy.jpg'
 toc: true
 comments: false
 ---
