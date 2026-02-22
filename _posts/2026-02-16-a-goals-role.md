@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A goal's goal" 
-date: 2026-02-16 00:00:00 +0000 
-categories: [Running] 
+date: 2026-02-22 00:00:00 +0000 
+categories: [Running, Lifestyle] 
 tags: [] 
 image: 'assets/images/sheep.jpg'
 toc: true
