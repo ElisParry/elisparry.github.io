@@ -25,6 +25,14 @@
                 </div>
                 {% endif %}
             </h2>
+            {% assign all_labels = post.categories | concat: post.tags | uniq %}
+            {% unless all_labels == empty %}
+            <div class="mb-2">
+                {% for label in all_labels %}
+                <a class="badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ label | replace: " ","-" }}">{{ label }}</a>
+                {% endfor %}
+            </div>
+            {% endunless %}
             <h4 class="card-text">{{ (post.excerpt | default: post.content)| strip_html | truncatewords:30 }}</h4>
         </div>
         <div class="card-footer bg-white">
