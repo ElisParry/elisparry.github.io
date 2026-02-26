@@ -332,6 +332,9 @@ img, img:hover {
         height:240px;
         width:100%;
         object-position:top;
+        /* convert to black & white then give a warm earth‑brown tint */
+        filter: grayscale(1) sepia(0.5) hue-rotate(-15deg) brightness(0.9) saturate(0.6);
+        /* tweak the values above for more/less warmth */
     }
 }
 
