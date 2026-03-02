@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partnerships
-permalink: /important_stuff
+permalink: /partnerships
 comments: false
 image: 
 imageshadow: true
