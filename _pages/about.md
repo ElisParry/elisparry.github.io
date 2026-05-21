@@ -7,23 +7,29 @@ image:
 imageshadow: true
 ---
 
-I'm elis, and this is my blog. 
+{:refdef: style="text-align: center;"}
+![Me](/assets/images/DSC09347.JPG){: width="500" style="border-radius: 12pt;" }
+{: refdef}
 
-I have an interest in climate change and, therefore, I'm hoping to pursue a career at the intersection of climate science and policy.
+Croeso. I'm elis, and this is my website. 
 
-My philosophy is to do what you love. So when I'm not doing physics, I like to spend the rest of my time doing the other things I love. These include doing sports, volunteering and spending time with my friends and family, including my dog, Pero. I created this page to share some of these interests. Hopefully, it will give you a good idea of some of the things I get up to!
+We're currently destroying the habitability of our planet. I want to help change this. That's why I hope to be of service to the Earth and to nature, which we are all part of. 
 
-I hope you enjoy.
+My philosophy is to live simply and in alignment with my values. My time is split between doing physics and other hobbies, such as running, cooking, and playing the guitar. All the better if with family and friends. 
+
+I like creating more than I consume, which is why I created this website. Hopefully you can find something in my writing. 
 
 Also, I have no presence on any social media platforms other than my [YouTube channel](https://www.youtube.com/channel/UCdtGRk6_Y2FJZs0nkr-XR0w).
 
 
 
 # My running journey 
-A lot has changed in my running recently. I will update this section of my site once I am back from my pilgrimage. For now, the crux is that I now run to run.
+A lot has changed in my running recently. I started running when I first struggled with my mental health during the pandemic. Quite soon, I was eyeing up the longer stuff, signing up to an ultra during my first year at university. Over the next few years, I became hooked. But, slowly, something started to change - how my running made me *feel*. In pursuing numbers, I lost the *joy* that I once felt. Luckily, I realised that there's an alternative.
+
+Now, I no longer try to uphold my identity as a runner: I run simply to run - to connect with myself, nature, and others. 
 
 # Results
-I used to have a section here summarising my running results up to now. I've decided to remove it in an attempt to move away from results-driven running towards feeling-driven running. 
+I used to have a section here summarising my running results - where I placed, along with my times. I decided to remove it in an attempt to move away from results-driven running towards feeling-driven running. 
 
 Results don't define us as runners.
 

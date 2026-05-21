@@ -5,11 +5,8 @@ permalink: /contact
 comments: false
 ---
 
-<img src="/assets/images/email_image.avif" alt="Running" style="border-radius: 12pt;">
-
-
 <form id="contact-form" action="https://formspree.io/f/mblkpglk" method="POST" novalidate target="_self">
-  <p class="mb-4">Please use the form or send me an email if you would like to get in touch. I'll try to reply as soon as possible!</p>
+  <p class="mb-4">Please use the form to get in touch. I'll try to reply as soon as possible!</p>
   <div class="form-group row">
     <div class="col-md-6">
       <input class="form-control" type="text" name="name" placeholder="Name*" required style="border:none;border-bottom:2px solid #333;border-radius:0;background:transparent;box-shadow:none;max-width:100%;margin-bottom:8px;">
