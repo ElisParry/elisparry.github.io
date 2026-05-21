@@ -1,10 +1,10 @@
 ---
 layout: post
-title: “Filthy clean”
+title: "Filthy clean"
 date: 2026-05-21 00:00:00 +0000
 categories: [Lifestyle]
-tags: [lifestyle]
-image: ‘assets/images/boat.jpg’
+tags: []
+image: 'assets/images/boat.jpg'
 toc: true
 comments: false
 ---
