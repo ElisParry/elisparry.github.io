@@ -8,7 +8,7 @@ imageshadow: true
 ---
 
 {:refdef: style="text-align: center;"}
-![Me](/assets/images/DSC09347.JPG){: width="500" style="border-radius: 12pt;" }
+![Me](/assets/images/DSC09373.JPG){: width="500" style="border-radius: 0pt;" }
 {: refdef}
 
 Croeso. I'm elis, and this is my website. 

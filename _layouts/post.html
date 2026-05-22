@@ -22,11 +22,21 @@ post_class: post-template
         </div>            
         <div>
         Written by {{ author.display_name }} on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+        <span class="post-date">
+        <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+            {{ page.date | date: "%-d %B, %Y" }}
+        </time>
+        </span>
+
         {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+        (Updated: 
+            <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
+            {{ page.last_modified_at | date: "%-d %B, %Y" }}
+            </time>
+        )
         {% endif %}
-        </div>            
+        </div>
+        
     </div>
     {% endif %}
 </div>
@@ -37,7 +47,6 @@ post_class: post-template
 {% endif %}
 
 <!-- Featured Image -->
-{% include featured-image.html %}
 
 <!-- Content -->
 {% include article.html %}
