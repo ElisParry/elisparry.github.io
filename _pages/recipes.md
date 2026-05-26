@@ -46,5 +46,19 @@ The truth is, however, that unless we know how to bring a bunch of whole ingredi
     </div>
   </div>
 
+  <div class="blog-grid-item">
+    <div class="card h-100">
+      <div class="maxthumb">
+        <a href="/recipes/best_banana_bread">
+          {% if site.lazyimages == "enabled" %}
+            <img class="img-thumb lazyimg" style="width:100%;height:auto;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{{ site.baseurl }}/assets/images/recipes/best_banana.png" alt="Recipe 3">
+          {% else %}
+            <img class="img-thumb" style="width:100%;height:auto;" src="{{ site.baseurl }}/assets/images/recipes/best_banana.png" alt="Recipe 3">
+          {% endif %}
+        </a>
+      </div>
+    </div>
+  </div>
+
 
 </div>
