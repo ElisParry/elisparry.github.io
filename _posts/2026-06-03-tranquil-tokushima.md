@@ -2,8 +2,8 @@
 layout: post
 title: "Tranquil Tokushima"
 date: 2026-06-04 00:00:00 +0000
-categories: [Spirituality]
-tags: [Nature, Simplicity]
+categories: [Shikoku Henro]
+tags: [Spirituality, Nature, Simplicity]
 image: 'assets/images/temple.png'
 toc: false
 comments: false

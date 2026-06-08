@@ -15,7 +15,7 @@
 <link href="{{ '/assets/css/theme.css' | relative_url }}" rel="stylesheet">
   <link href="{{ '/assets/css/subscribe.css' | relative_url }}" rel="stylesheet">
 
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<!-- jquery will be loaded deferred at the end for better performance -->
 
 </head>
 
@@ -227,12 +227,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
-
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script defer src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script defer src="{{ site.baseurl }}/assets/js/prism.js"></script>
+<script defer src="{{ site.baseurl }}/assets/js/theme.js"></script>
 
 {% if site.lazyimages == "enabled" %}
-<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+<script defer src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
 
 {% if page.layout == 'post' %}

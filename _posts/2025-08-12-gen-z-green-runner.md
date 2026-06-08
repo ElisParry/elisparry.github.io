@@ -2,7 +2,8 @@
 layout: post
 title: "Zooming towards change as a Green Runner"
 date: 2025-08-12 00:00:00 +0000 
-tags: [lifestyle, sustainability, green running]
+categories: [sustainability]
+tags: [lifestyle, green running]
 image: 'assets/images/tgr_with_david.webp'
 toc: true
 --- 
@@ -33,4 +34,8 @@ The final thing I wanted to touch on is the word 'opportunity'. During a time wh
 
 So what now? It would be incredible if more runners, particularly those around my age, joined The Green Runners. We have the power to set off some big ripples. The opportunity is here. All that is needed is some hope and determination and, most importantly, a community like The Green Runners.
 
-We're running out of time. Join The Green Runners [**<u>now</u>**](https://thegreenrunners.com/become-a-member/). 
+We're running out of time. Join The Green Runners [<u>now</u>](https://thegreenrunners.com/become-a-member/). 
+
+---
+
+This is an article I wrote for The Green Runners' [<u>blog</u>](https://thegreenrunners.com/elis-running-with-purpose/) page.
