@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Solitary Swedish Runner" 
-date: 2026-08-06 00:00:00 +0000 
+date: 2026-06-11 00:00:00 +0000 
 categories: [Running] 
 tags: [simplicity, lifestyle, nature] 
 image: 'assets/images/woods_sandals.JPG'
