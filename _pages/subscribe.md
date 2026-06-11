@@ -5,7 +5,7 @@ permalink: /subscribe
 comments: false
 ---
 
-<p>Enter your email below to subscribe to my newsletter. I'll send an email to any newsletter subscribers whenever I post a new blog, sometimes with additional content too!</p>
+<p>Enter your email below to subscribe to my newsletter. I'll send an email to any newsletter subscribers whenever I post a new blog, mentioning what I'm reading at the time too.</p>
 
 <form id="subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" novalidate target="_self">
   <input class="form-control mb-2" type="email" name="_replyto" placeholder="E-mail Address*" required>
