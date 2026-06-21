@@ -19,9 +19,7 @@ My philosophy is to live simply and in alignment with my values. My time is spli
 
 I like creating more than I consume, which is why I created this website. Hopefully you can find something in my writing. 
 
-Also, I have no presence on any social media platforms other than my [YouTube channel](https://www.youtube.com/channel/UCdtGRk6_Y2FJZs0nkr-XR0w).
-
-
+Also, I have no presence on any social media platforms.
 
 # My running journey 
 A lot has changed in my running recently. I started running when I first struggled with my mental health during the pandemic. Quite soon, I was eyeing up the longer stuff, signing up to an ultra during my first year at university. Over the next few years, I became hooked. But, slowly, something started to change - how my running made me *feel*. In pursuing numbers, I lost the *joy* that I once felt. Luckily, I realised that there's an alternative.
