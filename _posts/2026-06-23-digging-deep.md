@@ -4,7 +4,7 @@ title: "Digging Deep"
 date: 2026-06-23 00:00:00 +0000
 categories: [Shikoku Henro]
 tags: [Spirituality, Nature, Simplicity]
-image: 'assets/images/temple.png'
+image: '/assets/images/dutch_henro.png'
 toc: false
 comments: false
 ---
@@ -143,7 +143,7 @@ Leaving the changing rooms, I headed to the lounge area where people relaxed fol
 Passing through a large roofed shopping street, I made my way towards a market that the American had recommended. Arriving at Hirome Market - one of the most famous indoor food markets in Japan -, I bumped into group of Japanese people who seemed to be struggling to take a picture of all of them together. I offered to take a picture of them but, to my surprise, they asked if they could have a picture *with* me. They were interested in what I was doing and why I was in Kochi. I told them I was a Henro, and asked them what they were doing. They were a family, and the father explained that his daughter had married the day before, so they were out celebrating as a family. Asking where the husband was, the young woman replied saying that he was out playing golf. I was concerned, but I guess things are just different in Japan. 
 
 {:refdef: style="text-align: center;"}
-![Japanese Family](/assets/images/IMG_6997-1.JPG){: width="500" }
+![Japanese Family](/assets/images/IMG_6997.jpg){: width="500" }
 {: refdef}
 
 
