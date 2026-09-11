@@ -1,0 +1,23 @@
+<rss version="2.0">
+  <channel>
+    <title :text="$site.title"></title>
+    <link :text="$site.host_url"></link>
+    <description :text="$site.title.suffix(' - Blog')"></description>
+    <language>en-US</language>
+    <lastBuildDate :text="$build.generated.formatHTTP()"></lastBuildDate>
+    <ctx :loop="$page.subpages().slice(0, 32)">
+      <item>
+        <title :text="$loop.it.title"></title>
+        <ctx :loop="$loop.it.tags">
+          <category :text="$loop.it"></category>
+        </ctx>
+        <description>
+          <ctx :text="$loop.it.content()"></ctx>
+        </description>
+        <link :text="$site.host_url.addPath($loop.it.link())"></link>
+        <pubDate :text="$loop.it.date.formatHTTP()"></pubDate>
+        <guid :text="$site.host_url.addPath($loop.it.link())"></guid>
+      </item>
+    </ctx>
+  </channel>
+</rss>

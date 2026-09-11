@@ -1,0 +1,15 @@
+---
+.title = "elis parry's blog",
+.date = @date("1990-01-01T00:00:00"),
+.author = "elis parry",
+.layout = "index.shtml",
+--- 
+
+Hello! Test.
+
+The content for this site is [CC-BY-SA] and the [source code] is [MIT]. The
+theme is based on [The Proportional Web] by Oskar Wickström, modified to suit my
+personal preferences and the needs of this blog. Wickström's work uses the MIT
+license.
+
+[The Proportional Web]: https://owickstrom.github.io/the-proportional-web/
