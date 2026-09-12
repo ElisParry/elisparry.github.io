@@ -6,7 +6,7 @@
 		<meta name="viewport" content="initial-scale=1">
 		<title :text="$page.title"></title>
 		<link type="text/css" rel="stylesheet" href="$site.asset('main.css').link()">
-		<link rel="icon" type="image/png" href="$site.asset('pam_favicon.png').link()">
+		<link rel="icon" type="image/png" href="$site.asset('/images/pam_favicon.png').link()">
 		<ctx :if="$page.custom.get?('noindex')">
 			<meta name="robots" content="noindex">
 		</ctx>
@@ -15,7 +15,7 @@
 	<body id="body">
 		<nav class="site-nav">
 			<h1>
-				<a href="/">elis parryt</a>
+				<a href="/">elis parry</a>
 			</h1>
 			<ul>
 				<li>
