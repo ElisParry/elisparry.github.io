@@ -1,11 +1,11 @@
 ---
 .date = @date("2026-06-23"), 
 .author = "elis parry", 
-.layout = "post.shtml", 
+.layout = "post.html", 
 .title = "Digging Deep",
 .alternatives = [{
   .name = "autoredirect",
-  .layout = "redirect.shtml",
+  .layout = "redirect.html",
   .output = "/2016/12/06/A-broad-intro-to-networking.html",
 }],
 ---
