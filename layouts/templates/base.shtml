@@ -5,14 +5,27 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="initial-scale=1">
 		<title :text="$page.title"></title>
+		<link type="text/css" rel="stylesheet" href="$site.asset('main.css').link()">
+		<link
+			rel="alternate"
+			type="application/rss+xml"
+			title="RSS" href="$site.page('blog').alternative('rss').link()">
+		<link rel="icon" type="image/png" href="$site.asset('pam_favicon.png').link()">
+		<ctx :if="$page.custom.get?('noindex')">
+			<meta name="robots" content="noindex">
+		</ctx>
 		<super>
 	</head>
 	<body id="body">
 		<nav class="site-nav">
 			<h1>
-				<a href="/">elis parry</a>
+				<a href="/">elis parryt</a>
 			</h1>
 			<ul>
+				<li>
+					<a href="$site.page('talks').link()">Talks</a>
+				</li>
+
 				<li>
 					<a href="$site.page('about').link()">About</a>
 				</li>
