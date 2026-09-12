@@ -1,4 +1,4 @@
-<extend template="base.html">
+<extend template="base.shtml">
 <head id="head">
 </head>
 
@@ -14,7 +14,17 @@
 				<span>#</span><span :text="$loop.it"></span>
 			</div>
 		</div>
-	
+		<ctx :if="$page.date.lt($build.generated.sub(1325, 'day'))">
+			<div class="alert alert-danger">
+				<strong class="heading">Notice</strong>
+				<p>
+					This blog post was published on
+					<ctx :text="$page.date.format('January 2, 2006')"></ctx>. It might be out
+					of date, have broken images or links, or simply contain bad ideas and
+					opinions that didn't stand the test of time. Please read generously!
+				</p>
+			</div>
+		</ctx>
 		<article>
 			<ctx :html="$page.content()"></ctx>
 			<div :if="$page.footnotes?()" class="footnotes" role="doc-endnotes">

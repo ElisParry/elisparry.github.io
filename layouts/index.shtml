@@ -1,4 +1,4 @@
-<extend template="base.html">
+<extend template="base.shtml">
 <head id="head">
 </head>
 <body id="body">
