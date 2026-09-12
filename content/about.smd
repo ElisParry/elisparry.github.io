@@ -1,6 +1,6 @@
 ---
 .title = "elis parry's blog",
-.date = @date("1990-01-01T00:00:00"),
+.date = 2026-09-12,
 .author = "elis parry",
 .layout = "page.html",
 ---
