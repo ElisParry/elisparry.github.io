@@ -23,15 +23,7 @@
 			</h1>
 			<ul>
 				<li>
-					<a href="$site.page('talks').link()">Talks</a>
-				</li>
-
-				<li>
 					<a href="$site.page('about').link()">About</a>
-				</li>
-
-				<li>
-					<a href="$site.page('blog').alternative('rss').link()">RSS</a>
 				</li>
 			</ul>
 		</nav>
