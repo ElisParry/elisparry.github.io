@@ -1,0 +1,45 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+
+<body id="body">
+	<main>
+		<h1>
+			<ctx :text="$page.title"></ctx>
+		</h1>
+		<div class="byline">
+			<div :text="$page.date.format('January 2, 2006')"></div>
+			<div class="tags" :loop="$page.tags">
+				<!-- TODO: https://github.com/kristoff-it/zine/pull/197 -->
+				<span>#</span><span :text="$loop.it"></span>
+			</div>
+		</div>
+	
+		<article>
+			<ctx :html="$page.content()"></ctx>
+			<div :if="$page.footnotes?()" class="footnotes" role="doc-endnotes">
+				<hr>
+				<ol :loop="$if">
+					<li id="$loop.it.def_id">
+						<ctx :html="$loop.it.html()"></ctx>
+						<ctx :loop="$loop.it.ref_ids">
+							<a class="footnote-backref" href="$loop.it.prefix('#')">Back ↩︎</a>
+						</ctx>
+					</li>
+				</ol>
+			</div>
+		</article>
+		<nav class="next-prev">
+			<div :if="$page.prevPage?()" class="prev">
+				<a href="$if.link()">
+					← <ctx :text="$if.title"></ctx>
+				</a>
+			</div>
+			<div :if="$page.nextPage?()" class="next">
+				<a href="$if.link()">
+					<ctx :text="$if.title"></ctx> →
+				</a>
+			</div>
+		</nav>
+	</main>
+</body>
