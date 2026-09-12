@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Alegreya:ital,wght@0,400..900;1,400..900&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /* reset.css */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -1029,5 +1031,7 @@ mtable.tml-small mtd {
 body {
   counter-reset: tmlEqnNo;
 }
+
+
 
 
