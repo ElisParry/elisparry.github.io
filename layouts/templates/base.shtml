@@ -10,13 +10,9 @@
 	<body id="body">
 		<nav class="site-nav">
 			<h1>
-				<a href="/">Drew DeVault</a>
+				<a href="/">elis parry</a>
 			</h1>
 			<ul>
-				<li>
-					<a href="$site.page('talks').link()">Talks</a>
-				</li>
-
 				<li>
 					<a href="$site.page('about').link()">About</a>
 				</li>
