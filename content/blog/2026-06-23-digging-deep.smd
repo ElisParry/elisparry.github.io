@@ -2,10 +2,13 @@
 .title = "Digging Deep",
 .date = .date("2026-09-09T00:00:00"), 
 .layout = "post.shtml", 
-.alternatives = [{
-  .layout = "redirect.shtml",
-  .output = "/2026/09/12/Digging_Deep.shtml",
-}],
+.alternatives = [
+  {
+    .name = "autoredirect",
+    .layout = "redirect.shtml",
+    .output = "/2026/09/12/Digging_Deep.shtml",
+    }
+  ],
 ---
 
 Testing new site build.
