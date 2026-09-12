@@ -662,13 +662,13 @@ a {
 }
 
 html {
-  color: #ccc;
+  color: #000;
   font-family: "Georgia", serif;
   font-size: 1.2em;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: #111;
+  background-color: #fff;
 }
 
 body {
