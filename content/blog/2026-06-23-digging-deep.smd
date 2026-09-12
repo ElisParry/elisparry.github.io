@@ -1,11 +1,10 @@
 ---
 .title = "Digging Deep",
 .date = .date("2026-09-09T00:00:00"), 
-.layout = "post.html", 
+.layout = "post.shtml", 
 .alternatives = [{
-  .name = "autoredirect",
-  .layout = "redirect.html",
-  .output = "/2026/09/12/Digging_Deep.html",
+  .layout = "redirect.shtml",
+  .output = "/2026/09/12/Digging_Deep.shtml",
 }],
 ---
 
