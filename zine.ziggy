@@ -1,9 +1,0 @@
-.zine_version = "0.14.0",
-.site = .simple(.{
-    .title = "Welcome to Zine!",
-    .host_url = "https://elisparry.gihub.io",
-    .content_dir_path = "content",
-    .layouts_dir_path = "layouts",
-    .assets_dir_path = "assets",
-}),
-

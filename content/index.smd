@@ -1,7 +1,0 @@
----
-.title = "my writing",
-.date = .date("2026-09-11T00:00:00"),
-.layout = "index.shtml",
---- 
-
-Testing - currently building a new site that's as simple as possible.

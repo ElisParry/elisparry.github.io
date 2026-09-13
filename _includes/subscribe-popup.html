@@ -1,0 +1,94 @@
+<button id="subscribe-pill" class="btn btn-dark footer-signup-btn subscribe-pill" type="button" aria-hidden="false">Sign up</button>
+
+<div id="subscribe-modal" class="subscribe-modal" aria-hidden="true">
+  <div class="subscribe-modal-content" role="dialog" aria-modal="true" aria-labelledby="subscribe-title">
+    <button class="subscribe-close" aria-label="Close">&times;</button>
+    <h3 id="subscribe-title">Subscribe</h3>
+    <p id="subscribe-note">Join my newsletter to keep up to date.</p>
+    <form id="floating-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST" novalidate>
+      <input type="email" name="_replyto" placeholder="Email address" required class="footer-email-input">
+      <input type="hidden" name="form_type" value="subscribe">
+      <input class="btn btn-dark footer-signup-btn" type="submit" value="Sign up">
+    </form>
+    <div id="floating-subscribe-thankyou" style="display:none;margin-top:8px;">Thank you for subscribing!</div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var pill = document.getElementById('subscribe-pill');
+  var modal = document.getElementById('subscribe-modal');
+  var closeBtn = document.querySelector('#subscribe-modal .subscribe-close');
+  var form = document.getElementById('floating-subscribe-form');
+  var thankyou = document.getElementById('floating-subscribe-thankyou');
+
+  function openModal() {
+    modal.style.display = 'flex';
+    modal.setAttribute('aria-hidden','false');
+    document.body.style.overflow = 'hidden';
+    var input = modal.querySelector('input[type=email]');
+    if(input) input.focus();
+  }
+  function closeModal() {
+    modal.style.display = 'none';
+    modal.setAttribute('aria-hidden','true');
+    document.body.style.overflow = '';
+  }
+
+  pill.addEventListener('click', openModal, false);
+  closeBtn.addEventListener('click', closeModal, false);
+
+  modal.addEventListener('click', function(e){
+    if(e.target === modal) closeModal();
+  }, false);
+
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && modal.style.display === 'flex') closeModal();
+  });
+
+  if(form) {
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      var data = new FormData(form);
+      fetch(form.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      }).then(function(response){
+        if(response.ok) {
+          var noteEl = document.getElementById('subscribe-note');
+          if (noteEl) noteEl.style.display = 'none';
+          form.style.display = 'none';
+          thankyou.style.display = 'block';
+          setTimeout(closeModal, 2000);
+        } else {
+          alert('There was a problem. Please try again later.');
+        }
+      }).catch(function(){
+        alert('There was a problem. Please try again later.');
+      });
+      return false;
+    }, false);
+  }
+
+  // Hide floating pill when footer becomes visible on screen
+  var footerEl = document.querySelector('footer.footer');
+  if (footerEl && pill) {
+    var footerObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          pill.style.display = 'none';
+        } else {
+          // only show if modal is not open
+          if (modal && modal.style.display === 'flex') {
+            pill.style.display = 'none';
+          } else {
+            pill.style.display = '';
+          }
+        }
+      });
+    }, { root: null, threshold: 0 });
+    footerObserver.observe(footerEl);
+  }
+});
+</script>
