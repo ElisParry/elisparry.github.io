@@ -60,8 +60,16 @@
   }
 
   p {
+    hyphens: auto;
     margin: 0 0 1rem;
+    overflow-wrap: break-word;
     text-align: justify;
+  }
+
+  li,
+  blockquote {
+    hyphens: auto;
+    overflow-wrap: break-word;
   }
 
   hr {
