@@ -13,6 +13,10 @@ footer,
   width: 80%;
 }
 
+main {
+  flex: 1;
+}
+
 .nav {
   overflow: auto;
 
@@ -41,6 +45,10 @@ footer,
     margin: 1rem 0 0;
     padding: 0;
     text-align: center;
+
+    a {
+      text-decoration: underline;
+    }
   }
 
   li {
@@ -81,22 +89,26 @@ footer,
 }
 
 footer {
-  align-items: flex-start;
+  align-items: center;
   display: flex;
   font-family: $serif-secondary;
   padding: 2rem 0;
   text-align: left;
 
+  a {
+    text-decoration: underline;
+  }
+
   .footer-content {
-    align-items: flex-end;
+    align-items: center;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     width: 100%;
   }
 
   .footer-subscribe {
-    margin-left: 2rem;
-    text-align: right;
+    margin-bottom: 1.5rem;
+    text-align: center;
 
     p {
       margin: 0 0 0.75rem;
@@ -107,7 +119,7 @@ footer {
       display: flex;
       gap: 0.5rem;
       max-width: 400px;
-      justify-content: flex-end;
+      justify-content: center;
     }
 
     .footer-email-field {
@@ -116,9 +128,9 @@ footer {
     }
 
     .footer-email-line {
-      border-top: 0.2rem solid $default-shade;
-      margin: 0 auto 0 0;
-      width: 2rem;
+      border-top: 0.05rem solid $default-shade;
+      margin: 0 auto;
+      width: 100%;
     }
 
     input[type="email"] {
@@ -138,16 +150,16 @@ footer {
       }
     }
 
-    button {
-      background: $default-shade;
-      border: 0;
-      border-radius: 5px;
-      color: $white;
-      cursor: pointer;
-      font-family: inherit;
-      font-size: inherit;
-      line-height: 1;
-      padding: 0.125rem 1rem;
+      button {
+        background: $default-shade;
+        border: 0;
+        border-radius: 5px;
+        color: $white;
+        cursor: pointer;
+        display: inline-block;
+        font-family: $sans-serif;
+        margin: 0 0.1rem 0.2rem;
+        padding: 0.2rem 0.5rem;
     }
   }
 
@@ -158,19 +170,19 @@ footer {
   .footer-copyright {
     color: $default-color;
     font-size: .8rem;
+    text-align: center;
   }
 }
 
 @media (max-width: 600px) {
   footer {
     .footer-content {
-      align-items: flex-start;
-      flex-direction: column;
+      align-items: center;
     }
 
     .footer-subscribe {
-      margin: 2rem 0 0;
-      text-align: left;
+      margin: 0 0 1.5rem;
+      text-align: center;
       width: 100%;
     }
 
@@ -185,8 +197,7 @@ footer {
     }
 
     .footer-subscribe button {
-      width: 100%;
-      height: 1.5rem;
+      align-self: center;
     }
   }
 }

@@ -1,11 +1,7 @@
 <footer>
   <div class="footer-content">
-    <span class="footer-copyright">
-      &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Credit for the <a href="https://github.com/chesterhow/tale/">theme</a>.
-    </span>
-
     <div class="footer-subscribe">
-      <p>Join my newsletter to keep up to date.</p>
+      <p>Join my newsletter here:</p>
       <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST">
         <div class="footer-email-field">
           <input type="email" name="_replyto" placeholder="Email address" required>
@@ -16,6 +12,11 @@
       </form>
       <p id="footer-subscribe-thankyou" class="footer-subscribe-thankyou" hidden>Thank you for subscribing!</p>
     </div>
+
+    <span class="footer-copyright">
+      &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Credit for the <a href="https://github.com/chesterhow/tale/">theme</a>.<br>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </span>
   </div>
 </footer>
 
