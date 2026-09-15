@@ -22,6 +22,7 @@ layout: default
   {% include disqus_comments.html %}
 {% endif %}
 
+{% unless page.pagination == false %}
 <div class="pagination">
   {% if page.next.url %}
     <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
@@ -32,3 +33,4 @@ layout: default
 
   <a href="#" class="top">Top</a>
 </div>
+{% endunless %}

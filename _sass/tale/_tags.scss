@@ -28,6 +28,7 @@
       border-radius: 5px;
       color: $default-color;
       text-decoration: none;
+      text-transform: lowercase;
 
       &:hover,
       &:active {
@@ -46,6 +47,7 @@
       margin: 2rem 0 0.5rem;
       font-family: $sans-serif;
       color: $default-color;
+      text-transform: lowercase;
     }
   }
 
