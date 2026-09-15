@@ -1,7 +1,7 @@
 # Site settings
-title:          ⸮Pam
+title:          ⸮pam
 description:    "elis parry's writing"
-baseurl:        "/writing"
+baseurl:        ""
 url:            "https://elisparry.github.io"
 
 # Google Analytics
@@ -32,10 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       10
+paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec, assets/css/theme.scss ]

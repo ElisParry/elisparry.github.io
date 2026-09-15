@@ -14,11 +14,10 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
 
   &-container {
-    margin: 1rem auto;
+    margin: 4rem auto;
     position: relative;
     text-align: center;
   }
@@ -27,12 +26,13 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
+    font-size: 3rem;
     margin: 0;
     padding-right: .2rem;
 
     &:hover,
     &:focus {
-      opacity: .6;
+      opacity: 1;
     }
   }
 
@@ -47,7 +47,7 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: 1;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -81,12 +81,112 @@ footer,
 }
 
 footer {
+  align-items: flex-start;
+  display: flex;
   font-family: $serif-secondary;
   padding: 2rem 0;
-  text-align: center;
+  text-align: left;
 
-  span {
+  .footer-content {
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .footer-subscribe {
+    margin-left: 2rem;
+    text-align: right;
+
+    p {
+      margin: 0 0 0.75rem;
+      white-space: nowrap;
+    }
+
+    form {
+      display: flex;
+      gap: 0.5rem;
+      max-width: 400px;
+      justify-content: flex-end;
+    }
+
+    .footer-email-field {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .footer-email-line {
+      border-top: 0.2rem solid $default-shade;
+      margin: 0 auto 0 0;
+      width: 2rem;
+    }
+
+    input[type="email"] {
+      background: transparent;
+      border: 0;
+      border-radius: 0;
+      box-sizing: border-box;
+      font-family: inherit;
+      font-size: inherit;
+      min-width: 0;
+      width: 100%;
+      padding: 0.5rem 0;
+
+      &:focus {
+        outline: none;
+        box-shadow: none;
+      }
+    }
+
+    button {
+      background: $default-shade;
+      border: 0;
+      border-radius: 5px;
+      color: $white;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: 1;
+      padding: 0.125rem 1rem;
+    }
+  }
+
+  .footer-subscribe-thankyou {
+    margin-top: 0.75rem !important;
+  }
+
+  .footer-copyright {
     color: $default-color;
     font-size: .8rem;
+  }
+}
+
+@media (max-width: 600px) {
+  footer {
+    .footer-content {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .footer-subscribe {
+      margin: 2rem 0 0;
+      text-align: left;
+      width: 100%;
+    }
+
+    .footer-subscribe p {
+      white-space: normal;
+    }
+
+    .footer-subscribe form {
+      align-items: stretch;
+      flex-direction: column;
+      max-width: none;
+    }
+
+    .footer-subscribe button {
+      width: 100%;
+      height: 1.5rem;
+    }
   }
 }

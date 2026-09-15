@@ -1,5 +1,45 @@
 <footer>
-  <span>
-    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
-  </span>
+  <div class="footer-content">
+    <span class="footer-copyright">
+      &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Credit for the <a href="https://github.com/chesterhow/tale/">theme</a>.
+    </span>
+
+    <div class="footer-subscribe">
+      <p>Join my newsletter to keep up to date.</p>
+      <form id="footer-subscribe-form" action="https://formspree.io/f/mblkpglk" method="POST">
+        <div class="footer-email-field">
+          <input type="email" name="_replyto" placeholder="Email address" required>
+          <div class="footer-email-line"></div>
+        </div>
+        <input type="hidden" name="form_type" value="subscribe">
+        <button type="submit">Sign up</button>
+      </form>
+      <p id="footer-subscribe-thankyou" class="footer-subscribe-thankyou" hidden>Thank you for subscribing!</p>
+    </div>
+  </div>
 </footer>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var form = document.getElementById('footer-subscribe-form');
+  var thankyou = document.getElementById('footer-subscribe-thankyou');
+
+  if (!form) return;
+
+  form.addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    fetch(form.action, {
+      method: 'POST',
+      body: new FormData(form),
+      headers: { 'Accept': 'application/json' }
+    }).then(function(response) {
+      if (!response.ok) throw new Error('Subscription failed');
+      form.hidden = true;
+      thankyou.hidden = false;
+    }).catch(function() {
+      alert('There was a problem. Please try again later.');
+    });
+  });
+});
+</script>
