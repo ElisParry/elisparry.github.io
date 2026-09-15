@@ -40,3 +40,48 @@
     width: 2rem;
   }
 }
+
+.posts-list {
+  &-item {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+
+    &:hover,
+    &:active {
+      .posts-list-line {
+        width: 3rem;
+      }
+    }
+  }
+
+  &-main {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  &-title {
+    color: $default-color;
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    text-decoration: none;
+    white-space: normal;
+  }
+
+  &-meta {
+    color: $default-tint;
+    flex: 0 0 7rem;
+    padding-left: 1rem;
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  &-line {
+    @include transition(all 0.3s ease-out);
+    border-top: 0.1rem solid $default-shade;
+    display: block;
+    width: 0;
+  }
+}

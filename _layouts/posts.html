@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="posts-list">
+  {% for post in site.posts %}
+  <a class="posts-list-item" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="posts-list-main">
+      <span class="posts-list-title">{{ post.title }}</span>
+      <div class="posts-list-line"></div>
+    </div>
+    <span class="posts-list-meta">
+      <time datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+    </span>
+  </a>
+  {% endfor %}
+</div>
