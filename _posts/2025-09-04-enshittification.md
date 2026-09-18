@@ -2,7 +2,7 @@
 layout: post
 title: "The enshittification of social media"
 date: 2025-09-23 00:00:00 +0000 
-tags: [social media, technology]
+tags: [Technology]
 image: 'assets/images/campfire.jpg'
 toc: true
 --- 

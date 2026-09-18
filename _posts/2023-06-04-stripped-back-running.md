@@ -3,7 +3,7 @@ layout: post
 title: "Stripped back running"
 date: 2023-06-04 00:00:00 +0000
 categories: [Running]
-tags: [simplicity, social media]
+tags: []
 image: 'assets/images/stripped.avif'
 toc: true
 comments: false

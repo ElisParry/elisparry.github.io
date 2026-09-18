@@ -2,7 +2,7 @@
 layout: post
 title: "Creating ripples"
 date: 2025-11-01 00:00:00 +0000 
-tags: []
+tags: [Meditations]
 image: 'assets/images/actionism.JPG'
 toc: true
 --- 

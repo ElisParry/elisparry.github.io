@@ -2,7 +2,7 @@
 layout: post
 title: "Living and learning"
 date: 2025-12-21 00:00:00 +0000 
-categories: [Lifestyle]
+categories: [Book Reflections]
 tags: []
 image: 'assets/images/skye.jpg'
 toc: true

@@ -2,8 +2,8 @@
 layout: post
 title: "Some notes on the digital world"
 date: 2024-04-12 00:00:00 +0000
-categories: [Lifestyle]
-tags: [technology, social media]
+categories: [Technology]
+tags: []
 image: 'assets/images/fence.jpg'
 toc: true
 comments: false

@@ -3,7 +3,7 @@ layout: post
 title: "Becoming a greener runner"
 date: 2024-11-23 00:00:00 +0000
 categories: [Running]
-tags: [sustainability, lifestyle]
+tags: []
 image: 'assets/images/greener_runner.avif'
 toc: true
 comments: false

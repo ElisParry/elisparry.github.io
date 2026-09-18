@@ -5,8 +5,8 @@ layout: post
 title: "The start of something new" 
 
 date: 2025-10-09 00:00:00 +0000  
-
-tags: [running, ultrarunning, joyrun] 
+categories: [Running]
+tags: [] 
 
 image: 'assets/images/crib_goch_action_shot.jpg'
 

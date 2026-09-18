@@ -3,7 +3,7 @@ layout: post
 title: "Cambridge to Oxford ultramarathon"
 date: 2024-06-24 00:00:00 +0000
 categories: [Running]
-tags: [ultrarunning, challenges]
+tags: []
 image: 'assets/images/cam_ox.avif'
 comments: false
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Division from tunnel vision"
 date: 2025-11-21 00:00:00 +0000
-categories: [Lifestyle]
-tags: [sustainability]
+categories: [Meditations]
+tags: []
 image: 'assets/images/tunnel_vision.jpg'
 toc: false
 comments: false

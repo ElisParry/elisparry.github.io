@@ -2,8 +2,8 @@
 layout: post
 title: "Reflections from a small caravan" 
 date: 2025-06-16 00:00:00 +0000 
-categories: [Lifestyle] 
-tags: [simplicity] 
+categories: [Meditations] 
+tags: [] 
 image: 'assets/images/Caravan.jpeg'
 toc: true
 comments: false

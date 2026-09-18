@@ -3,7 +3,7 @@ layout: post
 title: "The pillars of ultramarathon training"
 date: 2023-09-17 00:00:00 +0000
 categories: [Running]
-tags: [ultrarunning, nature]
+tags: []
 image: 'assets/images/pillars.avif'
 toc: true
 comments: false

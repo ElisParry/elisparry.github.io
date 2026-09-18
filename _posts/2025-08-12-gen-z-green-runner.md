@@ -2,8 +2,8 @@
 layout: post
 title: "Zooming towards change as a Green Runner"
 date: 2025-08-12 00:00:00 +0000 
-categories: [sustainability]
-tags: [lifestyle, green running]
+categories: [Running]
+tags: []
 image: 'assets/images/tgr_with_david.webp'
 toc: true
 --- 

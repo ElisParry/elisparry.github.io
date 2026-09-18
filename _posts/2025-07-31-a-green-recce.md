@@ -3,7 +3,7 @@ layout: post
 title: "A green recce"
 date: 2025-08-07 00:00:00 +0000 
 categories: [Running] 
-tags: [ultrarunning, green running, sustainability]
+tags: []
 image: 'assets/images/beach.jpg'
 toc: true
 --- 

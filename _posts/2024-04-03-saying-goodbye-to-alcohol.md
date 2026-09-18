@@ -3,7 +3,7 @@ layout: post
 title: "Saying goodbye to alcohol"
 date: 2024-04-03 00:00:00 +0000
 categories: [Lifestyle]
-tags: [sober living, health]
+tags: []
 image: 'assets/images/alcohol.avif'
 comments: false
 ---

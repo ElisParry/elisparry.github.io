@@ -2,8 +2,8 @@
 layout: post
 title: "A Solitary Swedish Runner" 
 date: 2026-06-11 00:00:00 +0000 
-categories: [Running] 
-tags: [simplicity, lifestyle, nature] 
+categories: [Book Reflections] 
+tags: [] 
 image: 'assets/images/woods_sandals.JPG'
 toc: true
 comments: false

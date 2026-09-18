@@ -8,7 +8,7 @@ date: 2025-11-26 00:00:00 +0000
 
 categories: [Nature]
 
-tags: [sustainability, health, lifestyle]
+tags: []
 
 image: 'assets/images/eucalyptus_forest_fire.jpg'
 
