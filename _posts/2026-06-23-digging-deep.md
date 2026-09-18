@@ -5,7 +5,7 @@ date: 2026-06-23 00:00:00 +0000
 categories: [Shikoku Henro]
 tags: [Spirituality, Nature, Simplicity]
 image: 'assets/images/dutch_henro.png'
-toc: false
+toc: true
 comments: false
 ---
 
