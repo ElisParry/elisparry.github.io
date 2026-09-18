@@ -4,14 +4,15 @@ title: "Reflections from a small caravan"
 date: 2025-06-16 00:00:00 +0000 
 categories: [Meditations] 
 tags: [] 
-image: 'assets/images/Caravan.jpeg'
 toc: true
 comments: false
 ---
 
 It's been a couple of months since I last wrote a blog post. Things have been busy and challenging for me, but I am trying to take small steps in the right direction. This post will be brief, but, hopefully, a powerful reflection on my time living off the grid in a tiny caravan in late January this year. If anything, it will be a nice thing to look back at in the future.  
 
- 
+![Caravan](/assets/images/Caravan.jpeg)
+{:.image-caption}
+*The old French caravan that I stayed in.*
 
 It was the 20th of January, 2025, when I arrived in a small Portuguese village to stay with a lovely English-Dutch family who were living off the grid with three girls. I hopped off the bus and waited in the rain for my lift to the off-grid 'finca'. The difference in the weather between the south - where I had previously been staying for two weeks - and the north was stark. The mountains of the north were far damper and green, not too dissimilar to North Wales! It was raining quite heavily when I arrived, so I decided to try to shelter outside a local cafe. Whilst waiting for a lift, I thought I would try something from the cafe, but I had stupidly not taken out any cash before coming on my trip, and the cafe did not accept card. Oh well! I soaked in the culture instead, noticing how different it was to back home.  
 

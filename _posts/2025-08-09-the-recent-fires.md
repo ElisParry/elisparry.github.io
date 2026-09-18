@@ -4,7 +4,6 @@ title: "A forest fire ingnited fire"
 date: 2025-08-09 00:00:00 +0000 
 categories: [Meditations] 
 tags: []
-image: 'assets/images/fire.jpg'
 toc: true
 --- 
 

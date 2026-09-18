@@ -3,8 +3,6 @@ layout: post
 title: "Feet first" 
 date: 2026-01-20 00:00:00 +0000 
 categories: [Running] 
-tags: [] 
-image: 'assets/images/jumping.jpg'
 toc: true
 comments: false
 ---

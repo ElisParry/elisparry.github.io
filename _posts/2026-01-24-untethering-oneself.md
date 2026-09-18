@@ -3,8 +3,6 @@ layout: post
 title: "Untethering oneself: consciousness"
 date: 2026-01-25 00:00:00 +0000
 categories: [Book Reflections]
-tags: []
-image: 'assets/images/trees.jpg'
 toc: true
 comments: false
 ---

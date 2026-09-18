@@ -3,8 +3,6 @@ layout: post
 title: "Digging Deep"
 date: 2026-06-23 00:00:00 +0000
 categories: [Shikoku Henro]
-tags: []
-image: 'assets/images/dutch_henro.png'
 toc: true
 comments: false
 ---

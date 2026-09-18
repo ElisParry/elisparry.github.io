@@ -11,9 +11,9 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
-$serif-secondary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
-$sans-serif: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
+$serif-primary: 'Garamond', 'Times New Roman', Times, serif !default;
+$serif-secondary: 'Garamond', 'Times New Roman', Times, serif !default;
+$sans-serif: 'Garamond', 'Times New Roman', Times, serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
