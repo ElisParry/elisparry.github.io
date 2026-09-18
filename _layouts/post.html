@@ -12,12 +12,10 @@ layout: default
 
   {% if page.toc == true %}
     {{ content | table_of_contents }}
-    {{ content }}
   {% endif %}
 
-  {% if page.toc == false %}
-    {{ content }}
-  {% endif %}
+    
+  {{ content }}
 </div>
 
 
