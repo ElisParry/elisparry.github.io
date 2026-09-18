@@ -1,8 +1,6 @@
 # Site settings
-title:          ?pam
-description: >-
-  'Pam' means why in Welsh. Spam means "to bombard...with unsolicited and unwanted material over the internet".
-  And, in reverse, it reads 'map'. These words describe what I share here quite well: finding your why and matters such as running, the environment, meditation, technology, and sobriety.
+title:          Elis Parry
+description: This is a site for my writing. 
 baseurl:        ""
 url:            "https://elisparry.github.io"
 
@@ -11,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         elis parry
+  name:         Elis Parry
   url:          https://elisparry.github.io
   email:        elis.parry@proton.me
 
