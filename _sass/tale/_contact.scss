@@ -1,0 +1,82 @@
+.contact-page {
+  margin: 0 auto;
+  max-width: 27rem;
+
+  .contact-intro {
+    text-align: left;
+  }
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 2rem;
+
+  label {
+    display: flex;
+    flex-direction: column;
+    font-family: $sans-serif;
+    gap: 0.35rem;
+  }
+
+  input,
+  textarea {
+    background: transparent;
+    border: 0;
+    border-bottom: 0.05rem solid $default-shade;
+    border-radius: 0;
+    color: $default-color;
+    font: inherit;
+    padding: 0.45rem 0;
+    width: 100%;
+
+    &:focus {
+      outline: 0.05rem solid $default-shade;
+      outline-offset: 0.2rem;
+    }
+  }
+
+  textarea {
+    border: 0.05rem solid $default-shade;
+    min-height: 10rem;
+    padding: 0.6rem;
+    resize: vertical;
+    border-radius: 5px;
+  }
+
+  button {
+    align-self: flex-start;
+    background: $default-shade;
+    border: 0;
+    border-radius: 5px;
+    color: $white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: $sans-serif;
+    margin: 0 0.1rem 0.2rem;
+    padding: 0.2rem 0.5rem;
+
+    &:hover,
+    &:focus {
+      background: $default-color;
+    }
+  }
+}
+
+.contact-form-fields {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.contact-thankyou {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .contact-form-fields {
+    grid-template-columns: 1fr;
+  }
+}

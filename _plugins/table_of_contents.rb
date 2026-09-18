@@ -17,16 +17,18 @@ module TableOfContents
 
     tags.each do |name, posts|
       normalized_name = name.to_s.downcase
-      merged[normalized_name] ||= []
+      merged[normalized_name] ||= { name: name, posts: [] }
 
       posts.each do |post|
-        unless merged[normalized_name].any? { |existing| existing.url == post.url }
-          merged[normalized_name] << post
+        unless merged[normalized_name][:posts].any? { |existing| existing.url == post.url }
+          merged[normalized_name][:posts] << post
         end
       end
     end
 
-    merged.sort_by { |name, _posts| name }
+    merged.values.sort_by { |entry| entry[:name].to_s.downcase }.map do |entry|
+      [entry[:name], entry[:posts]]
+    end
   end
 end
 

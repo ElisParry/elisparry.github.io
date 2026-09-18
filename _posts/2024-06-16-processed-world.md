@@ -2,7 +2,7 @@
 layout: post
 title: "Processed world?"
 date: 2024-06-16 00:00:00 +0000
-categories: [Lifestyle]
+categories: [Book Reflections]
 tags: []
 image: 'assets/images/double_rainbow.jpg'
 toc: true

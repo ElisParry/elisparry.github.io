@@ -2,7 +2,8 @@
 layout: post
 title: "Living without a quiet mind"
 date: 2025-08-07 00:00:00 +0000 
-tags: [Meditations]
+categories: [Book Reflections]
+tags: []
 image: 'assets/images/coast2.jpg'
 toc: true
 --- 

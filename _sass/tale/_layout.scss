@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 600px;
   width: 80%;
 }
 
@@ -9,7 +9,7 @@ footer,
 .nav-container {
   display: block;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 600px;
   width: 80%;
 }
 
@@ -30,7 +30,7 @@ main {
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    font-size: 3rem;
+    font-size: 2rem;
     margin: 0;
     padding-right: .2rem;
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Tags"
-permalink: /tags/
+title: "Categories"
+permalink: /categories/
 ---
 
 <div class="tags">
@@ -9,7 +9,7 @@ permalink: /tags/
     <h2 class="tags-header-title">{{ page.title }}</h2>
     <div class="tags-header-line"></div>
   </div>
-  {% assign merged_tags = site.tags | merge_case_insensitive_tags %}
+  {% assign merged_tags = site.categories | merge_case_insensitive_tags %}
   <div class="tags-clouds">
     {% for tag in merged_tags %}
     <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
