@@ -2,7 +2,7 @@
 layout: post
 title: "Digging Deep"
 date: 2026-06-23 00:00:00 +0000
-categories: [Shikoku Henro]
+categories: [Pilgrimage]
 toc: true
 comments: false
 ---

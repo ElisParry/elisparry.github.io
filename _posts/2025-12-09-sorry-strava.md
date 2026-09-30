@@ -8,9 +8,6 @@ date: 2025-12-11 00:00:00 +0000
 
 categories: [Running]
 
-tags: []
-
-image: 'assets/images/field.jpg'
 
 toc: true
 

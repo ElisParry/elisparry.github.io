@@ -92,7 +92,8 @@
   hr {
     border: 0;
     border-top: 0.05rem solid $default-shade;
-    margin: 2rem 0;
+    margin: 2rem auto;
+    width: 33.333%;
   }
 
   a:hover {

@@ -8,9 +8,6 @@ date: 2025-11-26 00:00:00 +0000
 
 categories: [Nature]
 
-tags: []
-
-image: 'assets/images/eucalyptus_forest_fire.jpg'
 
 toc: true
 

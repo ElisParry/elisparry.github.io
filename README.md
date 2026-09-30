@@ -16,7 +16,6 @@ Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here
 - Sticky posts
 - Tags
 - Excerpt management
-- [Disqus comments (can be enabled if needed)](#enabling-comments)
 
 ## Installation
 There are 3 ways to install this theme
@@ -119,9 +118,6 @@ And you're all set! Head over to http://127.0.0.1:4000/ to see your site in acti
 ### Enabling Comments
 Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-tale` to your site's Disqus id.
 
-```yml
-disqus: jekyll-tale
-```
 
 Next, add `comments: true` to the YAML front matter of the posts which you would like to enable comments for.
 
