@@ -12,5 +12,7 @@ I like to live simply, splitting my time between doing physics and other hobbies
 
 I like creating more than I consume, which is why I created this website to share some of my writing.
 
+Currently, I'm undertaking a PhD looking at [extreme heat](https://environment.leeds.ac.uk/institute-climate-atmospheric-science/pgr/21968/elis-parry) at the University of Leeds. I'm also finishing a book about the Shikoku Pilgrimage.
+
 Also, I have no presence on any social media platforms.
 
